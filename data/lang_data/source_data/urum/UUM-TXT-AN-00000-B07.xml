@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="utf_8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					<desc>doreco_urum1249_UUM-TXT-AN-00000-B07</desc>
+				</title>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>corflow</distributor>
+			</publicationStmt>
+			<notesStmt>
+				<note type="COMMENTS_DESC">
+					<note type="lastUsedAnnotationId">0</note>
+				</note>
+				<note type="TEMPLATE_DESC">
+					<note xml:id="TI1">
+						<note type="code">ref@B07</note>
+						<note type="type">ref</note>
+						<note type="speaker">B07</note>
+					</note>
+					<note xml:id="TI2">
+						<note type="code">ft@B07</note>
+						<note type="parent">ref@B07</note>
+						<note type="type">ft</note>
+						<note type="speaker">B07</note>
+					</note>
+					<note xml:id="TI3">
+						<note type="code">tx@B07</note>
+						<note type="parent">ref@B07</note>
+						<note type="type">tx</note>
+						<note type="speaker">B07</note>
+					</note>
+					<note xml:id="TI4">
+						<note type="code">wd@B07</note>
+						<note type="parent">ref@B07</note>
+						<note type="type">wd</note>
+						<note type="speaker">B07</note>
+					</note>
+					<note xml:id="TI5">
+						<note type="code">mb@B07</note>
+						<note type="parent">wd@B07</note>
+						<note type="type">mb</note>
+						<note type="speaker">B07</note>
+					</note>
+					<note xml:id="TI6">
+						<note type="code">gl@B07</note>
+						<note type="parent">mb@B07</note>
+						<note type="type">gl</note>
+						<note type="speaker">B07</note>
+					</note>
+					<note xml:id="TI7">
+						<note type="code">ps@B07</note>
+						<note type="parent">mb@B07</note>
+						<note type="type">ps</note>
+						<note type="speaker">B07</note>
+					</note>
+					<note xml:id="TI8">
+						<note type="code">ph@B07</note>
+						<note type="parent">mb@B07</note>
+						<note type="type">ph</note>
+						<note type="speaker">B07</note>
+					</note>
+					<note xml:id="TI9">
+						<note type="code">doreco-mb-algn@B07</note>
+						<note type="parent">mb@B07</note>
+						<note type="type">cert</note>
+						<note type="speaker">B07</note>
+					</note>
+				</note>
+			</notesStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording>
+						<media mimeType="audio/x-wav" url="doreco_urum1249_UUM-TXT-AN-00000-B07.wav"/>
+					</recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<settingDesc>
+				<setting xml:id="d0">
+					<activity/>
+				</setting>
+			</settingDesc>
+			<particDesc>
+				<listPerson>
+					<person xml:id="SPK1">
+						<altGrp mode="incl">
+							<alt type="ref@B07"/>
+							<alt type="ft@B07"/>
+							<alt type="tx@B07"/>
+							<alt type="wd@B07"/>
+							<alt type="mb@B07"/>
+							<alt type="gl@B07"/>
+							<alt type="ps@B07"/>
+							<alt type="ph@B07"/>
+							<alt type="doreco-mb-algn@B07"/>
+						</altGrp>
+						<persName>B07</persName>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+		<encodingDesc style="0.9.1">
+			<appInfo>
+				<application ident="corflow.toTei" version="1.0">
+					<desc>Python package 'corflow'.</desc>
+				</application>
+			</appInfo>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<timeline unit="ms">
+			<when absolute="00:00:00" xml:id="T0"/>
+			<when interval="0274" since="T0" xml:id="T1"/>
+			<when interval="0344" since="T0" xml:id="T2"/>
+			<when interval="0434" since="T0" xml:id="T3"/>
+			<when interval="0584" since="T0" xml:id="T4"/>
+			<when interval="0624" since="T0" xml:id="T5"/>
+			<when interval="0754" since="T0" xml:id="T6"/>
+			<when interval="0804" since="T0" xml:id="T7"/>
+			<when interval="0834" since="T0" xml:id="T8"/>
+			<when interval="0880" since="T0" xml:id="T9"/>
+			<when interval="1150" since="T0" xml:id="T10"/>
+			<when interval="1300" since="T0" xml:id="T11"/>
+			<when interval="1410" since="T0" xml:id="T12"/>
+			<when interval="1550" since="T0" xml:id="T13"/>
+			<when interval="1680" since="T0" xml:id="T14"/>
+			<when interval="1750" since="T0" xml:id="T15"/>
+			<when interval="2020" since="T0" xml:id="T16"/>
+			<when interval="2756" since="T0" xml:id="T17"/>
+			<when interval="2796" since="T0" xml:id="T18"/>
+			<when interval="2916" since="T0" xml:id="T19"/>
+			<when interval="3046" since="T0" xml:id="T20"/>
+			<when interval="3136" since="T0" xml:id="T21"/>
+			<when interval="3256" since="T0" xml:id="T22"/>
+			<when interval="3316" since="T0" xml:id="T23"/>
+			<when interval="3376" since="T0" xml:id="T24"/>
+			<when interval="3496" since="T0" xml:id="T25"/>
+			<when interval="3676" since="T0" xml:id="T26"/>
+			<when interval="3706" since="T0" xml:id="T27"/>
+			<when interval="3836" since="T0" xml:id="T28"/>
+			<when interval="4136" since="T0" xml:id="T29"/>
+			<when interval="4274" since="T0" xml:id="T30"/>
+			<when interval="4849" since="T0" xml:id="T31"/>
+			<when interval="4949" since="T0" xml:id="T32"/>
+			<when interval="5149" since="T0" xml:id="T33"/>
+			<when interval="5190" since="T0" xml:id="T34"/>
+			<when interval="5280" since="T0" xml:id="T35"/>
+			<when interval="5330" since="T0" xml:id="T36"/>
+			<when interval="5400" since="T0" xml:id="T37"/>
+			<when interval="5500" since="T0" xml:id="T38"/>
+			<when interval="5530" since="T0" xml:id="T39"/>
+			<when interval="5770" since="T0" xml:id="T40"/>
+			<when interval="5800" since="T0" xml:id="T41"/>
+			<when interval="5841" since="T0" xml:id="T42"/>
+			<when interval="5981" since="T0" xml:id="T43"/>
+			<when interval="6321" since="T0" xml:id="T44"/>
+			<when interval="6451" since="T0" xml:id="T45"/>
+			<when interval="6500" since="T0" xml:id="T46"/>
+			<when interval="7183" since="T0" xml:id="T47"/>
+			<when interval="7303" since="T0" xml:id="T48"/>
+			<when interval="7413" since="T0" xml:id="T49"/>
+			<when interval="7453" since="T0" xml:id="T50"/>
+			<when interval="7533" since="T0" xml:id="T51"/>
+			<when interval="7633" since="T0" xml:id="T52"/>
+			<when interval="7813" since="T0" xml:id="T53"/>
+			<when interval="7970" since="T0" xml:id="T54"/>
+			<when interval="8590" since="T0" xml:id="T55"/>
+			<when interval="8700" since="T0" xml:id="T56"/>
+			<when interval="9200" since="T0" xml:id="T57"/>
+			<when interval="9249" since="T0" xml:id="T58"/>
+			<when interval="9419" since="T0" xml:id="T59"/>
+			<when interval="9529" since="T0" xml:id="T60"/>
+			<when interval="9559" since="T0" xml:id="T61"/>
+			<when interval="9589" since="T0" xml:id="T62"/>
+			<when interval="9649" since="T0" xml:id="T63"/>
+			<when interval="9949" since="T0" xml:id="T64"/>
+			<when interval="10259" since="T0" xml:id="T65"/>
+			<when interval="10300" since="T0" xml:id="T66"/>
+			<when interval="10417" since="T0" xml:id="T67"/>
+			<when interval="10447" since="T0" xml:id="T68"/>
+			<when interval="10537" since="T0" xml:id="T69"/>
+			<when interval="10580" since="T0" xml:id="T70"/>
+			<when interval="10660" since="T0" xml:id="T71"/>
+			<when interval="10790" since="T0" xml:id="T72"/>
+			<when interval="10930" since="T0" xml:id="T73"/>
+			<when interval="10960" since="T0" xml:id="T74"/>
+			<when interval="11290" since="T0" xml:id="T75"/>
+			<when interval="11320" since="T0" xml:id="T76"/>
+			<when interval="11613" since="T0" xml:id="T77"/>
+			<when interval="11667" since="T0" xml:id="T78"/>
+			<when interval="11697" since="T0" xml:id="T79"/>
+			<when interval="11787" since="T0" xml:id="T80"/>
+			<when interval="11835" since="T0" xml:id="T81"/>
+			<when interval="11945" since="T0" xml:id="T82"/>
+			<when interval="12025" since="T0" xml:id="T83"/>
+			<when interval="12083" since="T0" xml:id="T84"/>
+			<when interval="12153" since="T0" xml:id="T85"/>
+			<when interval="12253" since="T0" xml:id="T86"/>
+			<when interval="12293" since="T0" xml:id="T87"/>
+			<when interval="12403" since="T0" xml:id="T88"/>
+			<when interval="12453" since="T0" xml:id="T89"/>
+			<when interval="13318" since="T0" xml:id="T90"/>
+			<when interval="13657" since="T0" xml:id="T91"/>
+			<when interval="13707" since="T0" xml:id="T92"/>
+			<when interval="13817" since="T0" xml:id="T93"/>
+			<when interval="13887" since="T0" xml:id="T94"/>
+			<when interval="13927" since="T0" xml:id="T95"/>
+			<when interval="14005" since="T0" xml:id="T96"/>
+			<when interval="14155" since="T0" xml:id="T97"/>
+			<when interval="14185" since="T0" xml:id="T98"/>
+			<when interval="14215" since="T0" xml:id="T99"/>
+			<when interval="14355" since="T0" xml:id="T100"/>
+			<when interval="14395" since="T0" xml:id="T101"/>
+			<when interval="14485" since="T0" xml:id="T102"/>
+			<when interval="14585" since="T0" xml:id="T103"/>
+			<when interval="14670" since="T0" xml:id="T104"/>
+			<when interval="15012" since="T0" xml:id="T105"/>
+			<when interval="15112" since="T0" xml:id="T106"/>
+			<when interval="15142" since="T0" xml:id="T107"/>
+			<when interval="15172" since="T0" xml:id="T108"/>
+			<when interval="15492" since="T0" xml:id="T109"/>
+			<when interval="15582" since="T0" xml:id="T110"/>
+			<when interval="15632" since="T0" xml:id="T111"/>
+			<when interval="15780" since="T0" xml:id="T112"/>
+			<when interval="16818" since="T0" xml:id="T113"/>
+			<when interval="16898" since="T0" xml:id="T114"/>
+			<when interval="16958" since="T0" xml:id="T115"/>
+			<when interval="16988" since="T0" xml:id="T116"/>
+			<when interval="17128" since="T0" xml:id="T117"/>
+			<when interval="17218" since="T0" xml:id="T118"/>
+			<when interval="17308" since="T0" xml:id="T119"/>
+			<when interval="17403" since="T0" xml:id="T120"/>
+			<when interval="17493" since="T0" xml:id="T121"/>
+			<when interval="17593" since="T0" xml:id="T122"/>
+			<when interval="17653" since="T0" xml:id="T123"/>
+			<when interval="17693" since="T0" xml:id="T124"/>
+			<when interval="17723" since="T0" xml:id="T125"/>
+			<when interval="17783" since="T0" xml:id="T126"/>
+			<when interval="17843" since="T0" xml:id="T127"/>
+			<when interval="17920" since="T0" xml:id="T128"/>
+			<when interval="18040" since="T0" xml:id="T129"/>
+			<when interval="18150" since="T0" xml:id="T130"/>
+			<when interval="18240" since="T0" xml:id="T131"/>
+			<when interval="18360" since="T0" xml:id="T132"/>
+			<when interval="18390" since="T0" xml:id="T133"/>
+			<when interval="18460" since="T0" xml:id="T134"/>
+			<when interval="18530" since="T0" xml:id="T135"/>
+			<when interval="18660" since="T0" xml:id="T136"/>
+			<when interval="18710" since="T0" xml:id="T137"/>
+			<when interval="18810" since="T0" xml:id="T138"/>
+			<when interval="18850" since="T0" xml:id="T139"/>
+			<when interval="19070" since="T0" xml:id="T140"/>
+			<when interval="19110" since="T0" xml:id="T141"/>
+			<when interval="19250" since="T0" xml:id="T142"/>
+			<when interval="19540" since="T0" xml:id="T143"/>
+			<when interval="19580" since="T0" xml:id="T144"/>
+			<when interval="19800" since="T0" xml:id="T145"/>
+			<when interval="19960" since="T0" xml:id="T146"/>
+			<when interval="20060" since="T0" xml:id="T147"/>
+			<when interval="20190" since="T0" xml:id="T148"/>
+			<when interval="20300" since="T0" xml:id="T149"/>
+			<when interval="20440" since="T0" xml:id="T150"/>
+			<when interval="20590" since="T0" xml:id="T151"/>
+			<when interval="20640" since="T0" xml:id="T152"/>
+			<when interval="20740" since="T0" xml:id="T153"/>
+			<when interval="20810" since="T0" xml:id="T154"/>
+			<when interval="20950" since="T0" xml:id="T155"/>
+			<when interval="20980" since="T0" xml:id="T156"/>
+			<when interval="21066" since="T0" xml:id="T157"/>
+			<when interval="21346" since="T0" xml:id="T158"/>
+			<when interval="21576" since="T0" xml:id="T159"/>
+			<when interval="21646" since="T0" xml:id="T160"/>
+			<when interval="21796" since="T0" xml:id="T161"/>
+			<when interval="21887" since="T0" xml:id="T162"/>
+			<when interval="21990" since="T0" xml:id="T163"/>
+			<when interval="22060" since="T0" xml:id="T164"/>
+			<when interval="22190" since="T0" xml:id="T165"/>
+			<when interval="22240" since="T0" xml:id="T166"/>
+			<when interval="22400" since="T0" xml:id="T167"/>
+			<when interval="22430" since="T0" xml:id="T168"/>
+			<when interval="22570" since="T0" xml:id="T169"/>
+			<when interval="22770" since="T0" xml:id="T170"/>
+			<when interval="22810" since="T0" xml:id="T171"/>
+			<when interval="22965" since="T0" xml:id="T172"/>
+			<when interval="22995" since="T0" xml:id="T173"/>
+			<when interval="23125" since="T0" xml:id="T174"/>
+			<when interval="23225" since="T0" xml:id="T175"/>
+			<when interval="23410" since="T0" xml:id="T176"/>
+			<when interval="23540" since="T0" xml:id="T177"/>
+			<when interval="23710" since="T0" xml:id="T178"/>
+			<when interval="23783" since="T0" xml:id="T179"/>
+			<when interval="24264" since="T0" xml:id="T180"/>
+			<when interval="24294" since="T0" xml:id="T181"/>
+			<when interval="24464" since="T0" xml:id="T182"/>
+			<when interval="24510" since="T0" xml:id="T183"/>
+			<when interval="24570" since="T0" xml:id="T184"/>
+			<when interval="24670" since="T0" xml:id="T185"/>
+			<when interval="24767" since="T0" xml:id="T186"/>
+			<when interval="24797" since="T0" xml:id="T187"/>
+			<when interval="25047" since="T0" xml:id="T188"/>
+			<when interval="25077" since="T0" xml:id="T189"/>
+			<when interval="25212" since="T0" xml:id="T190"/>
+			<when interval="25402" since="T0" xml:id="T191"/>
+			<when interval="25472" since="T0" xml:id="T192"/>
+			<when interval="25522" since="T0" xml:id="T193"/>
+			<when interval="25562" since="T0" xml:id="T194"/>
+			<when interval="25732" since="T0" xml:id="T195"/>
+			<when interval="25777" since="T0" xml:id="T196"/>
+			<when interval="25837" since="T0" xml:id="T197"/>
+			<when interval="25907" since="T0" xml:id="T198"/>
+			<when interval="25987" since="T0" xml:id="T199"/>
+			<when interval="26087" since="T0" xml:id="T200"/>
+			<when interval="26137" since="T0" xml:id="T201"/>
+			<when interval="26197" since="T0" xml:id="T202"/>
+			<when interval="26347" since="T0" xml:id="T203"/>
+			<when interval="26390" since="T0" xml:id="T204"/>
+			<when interval="26751" since="T0" xml:id="T205"/>
+			<when interval="26781" since="T0" xml:id="T206"/>
+			<when interval="26841" since="T0" xml:id="T207"/>
+			<when interval="26888" since="T0" xml:id="T208"/>
+			<when interval="27008" since="T0" xml:id="T209"/>
+			<when interval="27098" since="T0" xml:id="T210"/>
+			<when interval="27220" since="T0" xml:id="T211"/>
+			<when interval="27250" since="T0" xml:id="T212"/>
+			<when interval="27500" since="T0" xml:id="T213"/>
+			<when interval="27530" since="T0" xml:id="T214"/>
+			<when interval="27625" since="T0" xml:id="T215"/>
+			<when interval="27707" since="T0" xml:id="T216"/>
+			<when interval="27757" since="T0" xml:id="T217"/>
+			<when interval="27967" since="T0" xml:id="T218"/>
+			<when interval="28087" since="T0" xml:id="T219"/>
+			<when interval="28127" since="T0" xml:id="T220"/>
+			<when interval="28157" since="T0" xml:id="T221"/>
+			<when interval="28197" since="T0" xml:id="T222"/>
+			<when interval="28287" since="T0" xml:id="T223"/>
+			<when interval="28417" since="T0" xml:id="T224"/>
+			<when interval="28647" since="T0" xml:id="T225"/>
+			<when interval="28720" since="T0" xml:id="T226"/>
+			<when interval="29206" since="T0" xml:id="T227"/>
+			<when interval="29236" since="T0" xml:id="T228"/>
+			<when interval="29336" since="T0" xml:id="T229"/>
+			<when interval="29376" since="T0" xml:id="T230"/>
+			<when interval="29446" since="T0" xml:id="T231"/>
+			<when interval="29576" since="T0" xml:id="T232"/>
+			<when interval="29686" since="T0" xml:id="T233"/>
+			<when interval="29766" since="T0" xml:id="T234"/>
+			<when interval="29856" since="T0" xml:id="T235"/>
+			<when interval="29996" since="T0" xml:id="T236"/>
+			<when interval="30076" since="T0" xml:id="T237"/>
+			<when interval="30226" since="T0" xml:id="T238"/>
+			<when interval="30276" since="T0" xml:id="T239"/>
+			<when interval="30477" since="T0" xml:id="T240"/>
+			<when interval="30627" since="T0" xml:id="T241"/>
+			<when interval="30767" since="T0" xml:id="T242"/>
+			<when interval="30947" since="T0" xml:id="T243"/>
+			<when interval="31027" since="T0" xml:id="T244"/>
+			<when interval="31057" since="T0" xml:id="T245"/>
+			<when interval="31257" since="T0" xml:id="T246"/>
+			<when interval="31367" since="T0" xml:id="T247"/>
+			<when interval="31496" since="T0" xml:id="T248"/>
+			<when interval="31604" since="T0" xml:id="T249"/>
+			<when interval="31634" since="T0" xml:id="T250"/>
+			<when interval="31714" since="T0" xml:id="T251"/>
+			<when interval="31784" since="T0" xml:id="T252"/>
+			<when interval="31844" since="T0" xml:id="T253"/>
+			<when interval="31974" since="T0" xml:id="T254"/>
+			<when interval="32154" since="T0" xml:id="T255"/>
+			<when interval="32184" since="T0" xml:id="T256"/>
+			<when interval="32374" since="T0" xml:id="T257"/>
+			<when interval="32414" since="T0" xml:id="T258"/>
+			<when interval="32624" since="T0" xml:id="T259"/>
+			<when interval="32694" since="T0" xml:id="T260"/>
+			<when interval="32754" since="T0" xml:id="T261"/>
+			<when interval="32814" since="T0" xml:id="T262"/>
+			<when interval="32914" since="T0" xml:id="T263"/>
+			<when interval="33144" since="T0" xml:id="T264"/>
+			<when interval="33299" since="T0" xml:id="T265"/>
+			<when interval="33748" since="T0" xml:id="T266"/>
+			<when interval="33798" since="T0" xml:id="T267"/>
+			<when interval="33958" since="T0" xml:id="T268"/>
+			<when interval="33998" since="T0" xml:id="T269"/>
+			<when interval="34088" since="T0" xml:id="T270"/>
+			<when interval="34118" since="T0" xml:id="T271"/>
+			<when interval="34207" since="T0" xml:id="T272"/>
+			<when interval="34267" since="T0" xml:id="T273"/>
+			<when interval="34327" since="T0" xml:id="T274"/>
+			<when interval="34377" since="T0" xml:id="T275"/>
+			<when interval="34467" since="T0" xml:id="T276"/>
+			<when interval="34510" since="T0" xml:id="T277"/>
+			<when interval="34540" since="T0" xml:id="T278"/>
+			<when interval="34770" since="T0" xml:id="T279"/>
+			<when interval="34800" since="T0" xml:id="T280"/>
+			<when interval="34840" since="T0" xml:id="T281"/>
+			<when interval="35030" since="T0" xml:id="T282"/>
+			<when interval="35110" since="T0" xml:id="T283"/>
+			<when interval="35200" since="T0" xml:id="T284"/>
+			<when interval="35290" since="T0" xml:id="T285"/>
+			<when interval="35400" since="T0" xml:id="T286"/>
+			<when interval="35580" since="T0" xml:id="T287"/>
+			<when interval="35710" since="T0" xml:id="T288"/>
+			<when interval="35750" since="T0" xml:id="T289"/>
+			<when interval="35800" since="T0" xml:id="T290"/>
+			<when interval="36005" since="T0" xml:id="T291"/>
+			<when interval="36077" since="T0" xml:id="T292"/>
+			<when interval="36147" since="T0" xml:id="T293"/>
+			<when interval="36257" since="T0" xml:id="T294"/>
+			<when interval="36367" since="T0" xml:id="T295"/>
+			<when interval="36487" since="T0" xml:id="T296"/>
+			<when interval="36567" since="T0" xml:id="T297"/>
+			<when interval="36607" since="T0" xml:id="T298"/>
+			<when interval="36747" since="T0" xml:id="T299"/>
+			<when interval="36847" since="T0" xml:id="T300"/>
+			<when interval="36897" since="T0" xml:id="T301"/>
+			<when interval="37005" since="T0" xml:id="T302"/>
+			<when interval="38808" since="T0" xml:id="T303"/>
+			<when interval="39150" since="T0" xml:id="T304"/>
+			<when interval="40821" since="T0" xml:id="T305"/>
+		</timeline>
+		<body>
+			<div subtype="d0" type="Situation">
+				<head>
+					<note type="start">#T0</note>
+					<note type="end">#T305</note>
+				</head>
+				<annotationBlock xml:id="a0" who="ref@B07" ana="#SPK1" start="#T0" end="#T16">
+					<u>
+						<seg>0001_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a1" target="#a0" from="#T0" to="#T16">Our people lived in Khars.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a2" target="#a0" from="#T0" to="#T16">bizım halh yašierdi ğarsta</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a3" target="#a0" from="#T0" to="#T1">&lt;&lt;ui&gt;bizım_halh&gt;</span>
+						<span xml:id="a4" target="#a0" from="#T1" to="#T9">yašierdi</span>
+						<span xml:id="a5" target="#a0" from="#T9" to="#T10">&lt;&lt;ui&gt;&gt;</span>
+						<span xml:id="a6" target="#a0" from="#T10" to="#T16">ğarsta</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a7" target="#a3" from="#T0" to="#T1">biz</span>
+						<span xml:id="a8" target="#a4" from="#T1" to="#T4">yaš</span>
+						<span xml:id="a9" target="#a4" from="#T4" to="#T7">-ier</span>
+						<span xml:id="a10" target="#a4" from="#T7" to="#T9">-di</span>
+						<span xml:id="a11" target="#a5" from="#T9" to="#T10">****</span>
+						<span xml:id="a12" target="#a6" from="#T10" to="#T14">ğars</span>
+						<span xml:id="a13" target="#a6" from="#T14" to="#T16">-ta</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a14" target="#a7" from="#T0" to="#T1">1.PL</span>
+						<span xml:id="a15" target="#a8" from="#T1" to="#T4">live</span>
+						<span xml:id="a16" target="#a9" from="#T4" to="#T7">-IPFV</span>
+						<span xml:id="a17" target="#a10" from="#T7" to="#T9">-PST</span>
+						<span xml:id="a18" target="#a11" from="#T9" to="#T10">****</span>
+						<span xml:id="a19" target="#a12" from="#T10" to="#T14">Kars</span>
+						<span xml:id="a20" target="#a13" from="#T14" to="#T16">-LOC</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a21" target="#a7" from="#T0" to="#T1">PN</span>
+						<span xml:id="a22" target="#a8" from="#T1" to="#T4">V</span>
+						<span xml:id="a23" target="#a9" from="#T4" to="#T7">-tam</span>
+						<span xml:id="a24" target="#a10" from="#T7" to="#T9">-tam</span>
+						<span xml:id="a25" target="#a11" from="#T9" to="#T10">****</span>
+						<span xml:id="a26" target="#a12" from="#T10" to="#T14">N</span>
+						<span xml:id="a27" target="#a13" from="#T14" to="#T16">-case</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a28" target="#a7" from="#T0" to="#T1">&lt;&lt;ui&gt;bizım_halh&gt;</span>
+						<span xml:id="a29" target="#a8" from="#T1" to="#T2">j</span>
+						<span xml:id="a30" target="#a8" from="#T2" to="#T3">a</span>
+						<span xml:id="a31" target="#a8" from="#T3" to="#T4">S</span>
+						<span xml:id="a32" target="#a9" from="#T4" to="#T5">i</span>
+						<span xml:id="a33" target="#a9" from="#T5" to="#T6">e</span>
+						<span xml:id="a34" target="#a9" from="#T6" to="#T7">4</span>
+						<span xml:id="a35" target="#a10" from="#T7" to="#T8">d</span>
+						<span xml:id="a36" target="#a10" from="#T8" to="#T9">i</span>
+						<span xml:id="a37" target="#a11" from="#T9" to="#T10">&lt;&lt;ui&gt;&gt;</span>
+						<span xml:id="a38" target="#a12" from="#T10" to="#T11">G</span>
+						<span xml:id="a39" target="#a12" from="#T11" to="#T12">a</span>
+						<span xml:id="a40" target="#a12" from="#T12" to="#T13">4</span>
+						<span xml:id="a41" target="#a12" from="#T13" to="#T14">s</span>
+						<span xml:id="a42" target="#a13" from="#T14" to="#T15">t</span>
+						<span xml:id="a43" target="#a13" from="#T15" to="#T16">a</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a44" target="#a7" from="#T0" to="#T1">****</span>
+						<span xml:id="a45" target="#a8" from="#T1" to="#T4">****</span>
+						<span xml:id="a46" target="#a9" from="#T4" to="#T7">****</span>
+						<span xml:id="a47" target="#a10" from="#T7" to="#T9">****</span>
+						<span xml:id="a48" target="#a11" from="#T9" to="#T10">****</span>
+						<span xml:id="a49" target="#a12" from="#T10" to="#T14">****</span>
+						<span xml:id="a50" target="#a13" from="#T14" to="#T16">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a51" who="ref@B07" ana="#SPK1" start="#T16" end="#T17">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a52" target="#a51" from="#T16" to="#T17">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a53" target="#a51" from="#T16" to="#T17">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a54" target="#a51" from="#T16" to="#T17">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a55" target="#a54" from="#T16" to="#T17">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a56" target="#a55" from="#T16" to="#T17">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a57" target="#a55" from="#T16" to="#T17">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a58" target="#a55" from="#T16" to="#T17">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a59" target="#a55" from="#T16" to="#T17">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a60" who="ref@B07" ana="#SPK1" start="#T17" end="#T30">
+					<u>
+						<seg>0002_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a61" target="#a60" from="#T17" to="#T30">Then a war began.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a62" target="#a60" from="#T17" to="#T30">bašlandi dögüš</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a63" target="#a60" from="#T17" to="#T25">bašlandi</span>
+						<span xml:id="a64" target="#a60" from="#T25" to="#T30">dögüš</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a65" target="#a63" from="#T17" to="#T25">bašlandi</span>
+						<span xml:id="a66" target="#a64" from="#T25" to="#T30">dögüš</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a67" target="#a65" from="#T17" to="#T25">began</span>
+						<span xml:id="a68" target="#a66" from="#T25" to="#T30">war</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a69" target="#a65" from="#T17" to="#T25">V</span>
+						<span xml:id="a70" target="#a66" from="#T25" to="#T30">N</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a71" target="#a65" from="#T17" to="#T18">b</span>
+						<span xml:id="a72" target="#a65" from="#T18" to="#T19">a</span>
+						<span xml:id="a73" target="#a65" from="#T19" to="#T20">S</span>
+						<span xml:id="a74" target="#a65" from="#T20" to="#T21">l</span>
+						<span xml:id="a75" target="#a65" from="#T21" to="#T22">a</span>
+						<span xml:id="a76" target="#a65" from="#T22" to="#T23">n</span>
+						<span xml:id="a77" target="#a65" from="#T23" to="#T24">d</span>
+						<span xml:id="a78" target="#a65" from="#T24" to="#T25">i</span>
+						<span xml:id="a79" target="#a66" from="#T25" to="#T26">d</span>
+						<span xml:id="a80" target="#a66" from="#T26" to="#T27">9</span>
+						<span xml:id="a81" target="#a66" from="#T27" to="#T28">J\</span>
+						<span xml:id="a82" target="#a66" from="#T28" to="#T29">y</span>
+						<span xml:id="a83" target="#a66" from="#T29" to="#T30">S</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a84" target="#a65" from="#T17" to="#T25">****</span>
+						<span xml:id="a85" target="#a66" from="#T25" to="#T30">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a86" who="ref@B07" ana="#SPK1" start="#T30" end="#T31">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a87" target="#a86" from="#T30" to="#T31">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a88" target="#a86" from="#T30" to="#T31">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a89" target="#a86" from="#T30" to="#T31">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a90" target="#a89" from="#T30" to="#T31">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a91" target="#a90" from="#T30" to="#T31">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a92" target="#a90" from="#T30" to="#T31">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a93" target="#a90" from="#T30" to="#T31">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a94" target="#a90" from="#T30" to="#T31">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a95" who="ref@B07" ana="#SPK1" start="#T31" end="#T46">
+					<u>
+						<seg>0003_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a96" target="#a95" from="#T31" to="#T46">Everybody left from there.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a97" target="#a95" from="#T31" to="#T46">häp čıhtılar yola</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a98" target="#a95" from="#T31" to="#T34">häp</span>
+						<span xml:id="a99" target="#a95" from="#T34" to="#T42">čıhtılar</span>
+						<span xml:id="a100" target="#a95" from="#T42" to="#T46">yola</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a101" target="#a98" from="#T31" to="#T34">häp</span>
+						<span xml:id="a102" target="#a99" from="#T34" to="#T37">čıh</span>
+						<span xml:id="a103" target="#a99" from="#T37" to="#T39">-tı</span>
+						<span xml:id="a104" target="#a99" from="#T39" to="#T42">-lar</span>
+						<span xml:id="a105" target="#a100" from="#T42" to="#T45">yol</span>
+						<span xml:id="a106" target="#a100" from="#T45" to="#T46">-a</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a107" target="#a101" from="#T31" to="#T34">all</span>
+						<span xml:id="a108" target="#a102" from="#T34" to="#T37">go.out</span>
+						<span xml:id="a109" target="#a103" from="#T37" to="#T39">-PST</span>
+						<span xml:id="a110" target="#a104" from="#T39" to="#T42">-PL</span>
+						<span xml:id="a111" target="#a105" from="#T42" to="#T45">road</span>
+						<span xml:id="a112" target="#a106" from="#T45" to="#T46">-DAT</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a113" target="#a101" from="#T31" to="#T34">Q</span>
+						<span xml:id="a114" target="#a102" from="#T34" to="#T37">V</span>
+						<span xml:id="a115" target="#a103" from="#T37" to="#T39">-tam</span>
+						<span xml:id="a116" target="#a104" from="#T39" to="#T42">-num</span>
+						<span xml:id="a117" target="#a105" from="#T42" to="#T45">N</span>
+						<span xml:id="a118" target="#a106" from="#T45" to="#T46">-case</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a119" target="#a101" from="#T31" to="#T32">x</span>
+						<span xml:id="a120" target="#a101" from="#T32" to="#T33">{</span>
+						<span xml:id="a121" target="#a101" from="#T33" to="#T34">p</span>
+						<span xml:id="a122" target="#a102" from="#T34" to="#T35">tS</span>
+						<span xml:id="a123" target="#a102" from="#T35" to="#T36">M</span>
+						<span xml:id="a124" target="#a102" from="#T36" to="#T37">x</span>
+						<span xml:id="a125" target="#a103" from="#T37" to="#T38">t</span>
+						<span xml:id="a126" target="#a103" from="#T38" to="#T39">M</span>
+						<span xml:id="a127" target="#a104" from="#T39" to="#T40">5</span>
+						<span xml:id="a128" target="#a104" from="#T40" to="#T41">a</span>
+						<span xml:id="a129" target="#a104" from="#T41" to="#T42">r\_r</span>
+						<span xml:id="a130" target="#a105" from="#T42" to="#T43">j</span>
+						<span xml:id="a131" target="#a105" from="#T43" to="#T44">o</span>
+						<span xml:id="a132" target="#a105" from="#T44" to="#T45">5</span>
+						<span xml:id="a133" target="#a106" from="#T45" to="#T46">a</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a134" target="#a101" from="#T31" to="#T34">****</span>
+						<span xml:id="a135" target="#a102" from="#T34" to="#T37">****</span>
+						<span xml:id="a136" target="#a103" from="#T37" to="#T39">****</span>
+						<span xml:id="a137" target="#a104" from="#T39" to="#T42">****</span>
+						<span xml:id="a138" target="#a105" from="#T42" to="#T45">****</span>
+						<span xml:id="a139" target="#a106" from="#T45" to="#T46">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a140" who="ref@B07" ana="#SPK1" start="#T46" end="#T47">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a141" target="#a140" from="#T46" to="#T47">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a142" target="#a140" from="#T46" to="#T47">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a143" target="#a140" from="#T46" to="#T47">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a144" target="#a143" from="#T46" to="#T47">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a145" target="#a144" from="#T46" to="#T47">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a146" target="#a144" from="#T46" to="#T47">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a147" target="#a144" from="#T46" to="#T47">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a148" target="#a144" from="#T46" to="#T47">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a149" who="ref@B07" ana="#SPK1" start="#T47" end="#T66">
+					<u>
+						<seg>0004_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a150" target="#a149" from="#T47" to="#T66">They were in their way forty five days, hungry and thirsty.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a151" target="#a149" from="#T47" to="#T66">ğırhbeš gün aj susuzluh</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a152" target="#a149" from="#T47" to="#T54">ğırhbeš</span>
+						<span xml:id="a153" target="#a149" from="#T54" to="#T55">&lt;&lt;pr&gt;gün&gt;</span>
+						<span xml:id="a154" target="#a149" from="#T55" to="#T56">&lt;p:&gt;</span>
+						<span xml:id="a155" target="#a149" from="#T56" to="#T57">&lt;&lt;fp&gt;aj&gt;</span>
+						<span xml:id="a156" target="#a149" from="#T57" to="#T58">&lt;p:&gt;</span>
+						<span xml:id="a157" target="#a149" from="#T58" to="#T66">susuzluh</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a158" target="#a152" from="#T47" to="#T51">ğırh</span>
+						<span xml:id="a159" target="#a152" from="#T51" to="#T54">-beš</span>
+						<span xml:id="a160" target="#a153" from="#T54" to="#T55">gün</span>
+						<span xml:id="a161" target="#a154" from="#T55" to="#T56">&lt;p:&gt;</span>
+						<span xml:id="a162" target="#a155" from="#T56" to="#T57">aj</span>
+						<span xml:id="a163" target="#a156" from="#T57" to="#T58">&lt;p:&gt;</span>
+						<span xml:id="a164" target="#a157" from="#T58" to="#T60">su</span>
+						<span xml:id="a165" target="#a157" from="#T60" to="#T63">-suz</span>
+						<span xml:id="a166" target="#a157" from="#T63" to="#T66">-luh</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a167" target="#a158" from="#T47" to="#T51">forty</span>
+						<span xml:id="a168" target="#a159" from="#T51" to="#T54">-five</span>
+						<span xml:id="a169" target="#a160" from="#T54" to="#T55">day</span>
+						<span xml:id="a170" target="#a161" from="#T55" to="#T56">&lt;p:&gt;</span>
+						<span xml:id="a171" target="#a162" from="#T56" to="#T57">hungery</span>
+						<span xml:id="a172" target="#a163" from="#T57" to="#T58">&lt;p:&gt;</span>
+						<span xml:id="a173" target="#a164" from="#T58" to="#T60">water</span>
+						<span xml:id="a174" target="#a165" from="#T60" to="#T63">-without</span>
+						<span xml:id="a175" target="#a166" from="#T63" to="#T66">-NR</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a176" target="#a158" from="#T47" to="#T51">Q</span>
+						<span xml:id="a177" target="#a159" from="#T51" to="#T54">-Q</span>
+						<span xml:id="a178" target="#a160" from="#T54" to="#T55">N</span>
+						<span xml:id="a179" target="#a161" from="#T55" to="#T56">&lt;p:&gt;</span>
+						<span xml:id="a180" target="#a162" from="#T56" to="#T57">A</span>
+						<span xml:id="a181" target="#a163" from="#T57" to="#T58">&lt;p:&gt;</span>
+						<span xml:id="a182" target="#a164" from="#T58" to="#T60">N</span>
+						<span xml:id="a183" target="#a165" from="#T60" to="#T63">-X</span>
+						<span xml:id="a184" target="#a166" from="#T63" to="#T66">-X</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a185" target="#a158" from="#T47" to="#T48">G</span>
+						<span xml:id="a186" target="#a158" from="#T48" to="#T49">M</span>
+						<span xml:id="a187" target="#a158" from="#T49" to="#T50">4</span>
+						<span xml:id="a188" target="#a158" from="#T50" to="#T51">x</span>
+						<span xml:id="a189" target="#a159" from="#T51" to="#T52">b</span>
+						<span xml:id="a190" target="#a159" from="#T52" to="#T53">e</span>
+						<span xml:id="a191" target="#a159" from="#T53" to="#T54">S</span>
+						<span xml:id="a192" target="#a160" from="#T54" to="#T55">&lt;&lt;pr&gt;gün&gt;</span>
+						<span xml:id="a193" target="#a161" from="#T55" to="#T56">&lt;p:&gt;</span>
+						<span xml:id="a194" target="#a162" from="#T56" to="#T57">&lt;&lt;fp&gt;aj&gt;</span>
+						<span xml:id="a195" target="#a163" from="#T57" to="#T58">&lt;p:&gt;</span>
+						<span xml:id="a196" target="#a164" from="#T58" to="#T59">s</span>
+						<span xml:id="a197" target="#a164" from="#T59" to="#T60">u</span>
+						<span xml:id="a198" target="#a165" from="#T60" to="#T61">s</span>
+						<span xml:id="a199" target="#a165" from="#T61" to="#T62">u</span>
+						<span xml:id="a200" target="#a165" from="#T62" to="#T63">z</span>
+						<span xml:id="a201" target="#a166" from="#T63" to="#T64">l</span>
+						<span xml:id="a202" target="#a166" from="#T64" to="#T65">u</span>
+						<span xml:id="a203" target="#a166" from="#T65" to="#T66">x</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a204" target="#a158" from="#T47" to="#T51">****</span>
+						<span xml:id="a205" target="#a159" from="#T51" to="#T54">****</span>
+						<span xml:id="a206" target="#a160" from="#T54" to="#T55">****</span>
+						<span xml:id="a207" target="#a161" from="#T55" to="#T56">&lt;p:&gt;</span>
+						<span xml:id="a208" target="#a162" from="#T56" to="#T57">****</span>
+						<span xml:id="a209" target="#a163" from="#T57" to="#T58">&lt;p:&gt;</span>
+						<span xml:id="a210" target="#a164" from="#T58" to="#T60">****</span>
+						<span xml:id="a211" target="#a165" from="#T60" to="#T63">****</span>
+						<span xml:id="a212" target="#a166" from="#T63" to="#T66">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a213" who="ref@B07" ana="#SPK1" start="#T66" end="#T67">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a214" target="#a213" from="#T66" to="#T67">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a215" target="#a213" from="#T66" to="#T67">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a216" target="#a213" from="#T66" to="#T67">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a217" target="#a216" from="#T66" to="#T67">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a218" target="#a217" from="#T66" to="#T67">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a219" target="#a217" from="#T66" to="#T67">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a220" target="#a217" from="#T66" to="#T67">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a221" target="#a217" from="#T66" to="#T67">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a222" who="ref@B07" ana="#SPK1" start="#T67" end="#T112">
+					<u>
+						<seg>0005_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a223" target="#a222" from="#T67" to="#T112">One part of them has died and another part got to villages.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a224" target="#a222" from="#T67" to="#T112">bir uji öldi bir uji ištem čätın gäldi čıhtılar kövlärä</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a225" target="#a222" from="#T67" to="#T70">bir</span>
+						<span xml:id="a226" target="#a222" from="#T70" to="#T73">uji</span>
+						<span xml:id="a227" target="#a222" from="#T73" to="#T77">öldi</span>
+						<span xml:id="a228" target="#a222" from="#T77" to="#T78">&lt;p:&gt;</span>
+						<span xml:id="a229" target="#a222" from="#T78" to="#T81">bir</span>
+						<span xml:id="a230" target="#a222" from="#T81" to="#T84">uji</span>
+						<span xml:id="a231" target="#a222" from="#T84" to="#T89">ištem</span>
+						<span xml:id="a232" target="#a222" from="#T89" to="#T90">&lt;&lt;pr&gt;čätın&gt;</span>
+						<span xml:id="a233" target="#a222" from="#T90" to="#T91">&lt;p:&gt;</span>
+						<span xml:id="a234" target="#a222" from="#T91" to="#T96">gäldi</span>
+						<span xml:id="a235" target="#a222" from="#T96" to="#T104">čıhtılar</span>
+						<span xml:id="a236" target="#a222" from="#T104" to="#T105">&lt;p:&gt;</span>
+						<span xml:id="a237" target="#a222" from="#T105" to="#T112">kövlärä</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a238" target="#a225" from="#T67" to="#T70">bir</span>
+						<span xml:id="a239" target="#a226" from="#T70" to="#T72">uj</span>
+						<span xml:id="a240" target="#a226" from="#T72" to="#T73">-i</span>
+						<span xml:id="a241" target="#a227" from="#T73" to="#T75">öl</span>
+						<span xml:id="a242" target="#a227" from="#T75" to="#T77">-di</span>
+						<span xml:id="a243" target="#a228" from="#T77" to="#T78">&lt;p:&gt;</span>
+						<span xml:id="a244" target="#a229" from="#T78" to="#T81">bir</span>
+						<span xml:id="a245" target="#a230" from="#T81" to="#T83">uj</span>
+						<span xml:id="a246" target="#a230" from="#T83" to="#T84">-i</span>
+						<span xml:id="a247" target="#a231" from="#T84" to="#T89">ištem</span>
+						<span xml:id="a248" target="#a232" from="#T89" to="#T90">čätın</span>
+						<span xml:id="a249" target="#a233" from="#T90" to="#T91">&lt;p:&gt;</span>
+						<span xml:id="a250" target="#a234" from="#T91" to="#T94">gäl</span>
+						<span xml:id="a251" target="#a234" from="#T94" to="#T96">-di</span>
+						<span xml:id="a252" target="#a235" from="#T96" to="#T99">čıh</span>
+						<span xml:id="a253" target="#a235" from="#T99" to="#T101">-tı</span>
+						<span xml:id="a254" target="#a235" from="#T101" to="#T104">-lar</span>
+						<span xml:id="a255" target="#a236" from="#T104" to="#T105">&lt;p:&gt;</span>
+						<span xml:id="a256" target="#a237" from="#T105" to="#T108">köv</span>
+						<span xml:id="a257" target="#a237" from="#T108" to="#T111">-lär</span>
+						<span xml:id="a258" target="#a237" from="#T111" to="#T112">-ä</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a259" target="#a238" from="#T67" to="#T70">one</span>
+						<span xml:id="a260" target="#a239" from="#T70" to="#T72">nipple</span>
+						<span xml:id="a261" target="#a240" from="#T72" to="#T73">-ACC</span>
+						<span xml:id="a262" target="#a241" from="#T73" to="#T75">die</span>
+						<span xml:id="a263" target="#a242" from="#T75" to="#T77">-PST</span>
+						<span xml:id="a264" target="#a243" from="#T77" to="#T78">&lt;p:&gt;</span>
+						<span xml:id="a265" target="#a244" from="#T78" to="#T81">one</span>
+						<span xml:id="a266" target="#a245" from="#T81" to="#T83">nipple</span>
+						<span xml:id="a267" target="#a246" from="#T83" to="#T84">-ACC</span>
+						<span xml:id="a268" target="#a247" from="#T84" to="#T89">so</span>
+						<span xml:id="a269" target="#a248" from="#T89" to="#T90">difficult</span>
+						<span xml:id="a270" target="#a249" from="#T90" to="#T91">&lt;p:&gt;</span>
+						<span xml:id="a271" target="#a250" from="#T91" to="#T94">come</span>
+						<span xml:id="a272" target="#a251" from="#T94" to="#T96">-PST</span>
+						<span xml:id="a273" target="#a252" from="#T96" to="#T99">go.out</span>
+						<span xml:id="a274" target="#a253" from="#T99" to="#T101">-PST</span>
+						<span xml:id="a275" target="#a254" from="#T101" to="#T104">-PL</span>
+						<span xml:id="a276" target="#a255" from="#T104" to="#T105">&lt;p:&gt;</span>
+						<span xml:id="a277" target="#a256" from="#T105" to="#T108">village</span>
+						<span xml:id="a278" target="#a257" from="#T108" to="#T111">-PL</span>
+						<span xml:id="a279" target="#a258" from="#T111" to="#T112">-DAT</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a280" target="#a238" from="#T67" to="#T70">Q</span>
+						<span xml:id="a281" target="#a239" from="#T70" to="#T72">N</span>
+						<span xml:id="a282" target="#a240" from="#T72" to="#T73">-case</span>
+						<span xml:id="a283" target="#a241" from="#T73" to="#T75">V</span>
+						<span xml:id="a284" target="#a242" from="#T75" to="#T77">-tam</span>
+						<span xml:id="a285" target="#a243" from="#T77" to="#T78">&lt;p:&gt;</span>
+						<span xml:id="a286" target="#a244" from="#T78" to="#T81">Q</span>
+						<span xml:id="a287" target="#a245" from="#T81" to="#T83">N</span>
+						<span xml:id="a288" target="#a246" from="#T83" to="#T84">-case</span>
+						<span xml:id="a289" target="#a247" from="#T84" to="#T89">PRT</span>
+						<span xml:id="a290" target="#a248" from="#T89" to="#T90">A</span>
+						<span xml:id="a291" target="#a249" from="#T90" to="#T91">&lt;p:&gt;</span>
+						<span xml:id="a292" target="#a250" from="#T91" to="#T94">V</span>
+						<span xml:id="a293" target="#a251" from="#T94" to="#T96">-tam</span>
+						<span xml:id="a294" target="#a252" from="#T96" to="#T99">V</span>
+						<span xml:id="a295" target="#a253" from="#T99" to="#T101">-tam</span>
+						<span xml:id="a296" target="#a254" from="#T101" to="#T104">-num</span>
+						<span xml:id="a297" target="#a255" from="#T104" to="#T105">&lt;p:&gt;</span>
+						<span xml:id="a298" target="#a256" from="#T105" to="#T108">N</span>
+						<span xml:id="a299" target="#a257" from="#T108" to="#T111">-num</span>
+						<span xml:id="a300" target="#a258" from="#T111" to="#T112">-case</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a301" target="#a238" from="#T67" to="#T68">b</span>
+						<span xml:id="a302" target="#a238" from="#T68" to="#T69">i</span>
+						<span xml:id="a303" target="#a238" from="#T69" to="#T70">r\_r</span>
+						<span xml:id="a304" target="#a239" from="#T70" to="#T71">u</span>
+						<span xml:id="a305" target="#a239" from="#T71" to="#T72">dZ</span>
+						<span xml:id="a306" target="#a240" from="#T72" to="#T73">i</span>
+						<span xml:id="a307" target="#a241" from="#T73" to="#T74">9</span>
+						<span xml:id="a308" target="#a241" from="#T74" to="#T75">l</span>
+						<span xml:id="a309" target="#a242" from="#T75" to="#T76">d</span>
+						<span xml:id="a310" target="#a242" from="#T76" to="#T77">i</span>
+						<span xml:id="a311" target="#a243" from="#T77" to="#T78">&lt;p:&gt;</span>
+						<span xml:id="a312" target="#a244" from="#T78" to="#T79">b</span>
+						<span xml:id="a313" target="#a244" from="#T79" to="#T80">i</span>
+						<span xml:id="a314" target="#a244" from="#T80" to="#T81">r\_r</span>
+						<span xml:id="a315" target="#a245" from="#T81" to="#T82">u</span>
+						<span xml:id="a316" target="#a245" from="#T82" to="#T83">dZ</span>
+						<span xml:id="a317" target="#a246" from="#T83" to="#T84">i</span>
+						<span xml:id="a318" target="#a247" from="#T84" to="#T85">i</span>
+						<span xml:id="a319" target="#a247" from="#T85" to="#T86">S</span>
+						<span xml:id="a320" target="#a247" from="#T86" to="#T87">t</span>
+						<span xml:id="a321" target="#a247" from="#T87" to="#T88">e</span>
+						<span xml:id="a322" target="#a247" from="#T88" to="#T89">m</span>
+						<span xml:id="a323" target="#a248" from="#T89" to="#T90">&lt;&lt;pr&gt;čätın&gt;</span>
+						<span xml:id="a324" target="#a249" from="#T90" to="#T91">&lt;p:&gt;</span>
+						<span xml:id="a325" target="#a250" from="#T91" to="#T92">J\</span>
+						<span xml:id="a326" target="#a250" from="#T92" to="#T93">{</span>
+						<span xml:id="a327" target="#a250" from="#T93" to="#T94">l</span>
+						<span xml:id="a328" target="#a251" from="#T94" to="#T95">d</span>
+						<span xml:id="a329" target="#a251" from="#T95" to="#T96">i</span>
+						<span xml:id="a330" target="#a252" from="#T96" to="#T97">tS</span>
+						<span xml:id="a331" target="#a252" from="#T97" to="#T98">M</span>
+						<span xml:id="a332" target="#a252" from="#T98" to="#T99">x</span>
+						<span xml:id="a333" target="#a253" from="#T99" to="#T100">t</span>
+						<span xml:id="a334" target="#a253" from="#T100" to="#T101">M</span>
+						<span xml:id="a335" target="#a254" from="#T101" to="#T102">5</span>
+						<span xml:id="a336" target="#a254" from="#T102" to="#T103">a</span>
+						<span xml:id="a337" target="#a254" from="#T103" to="#T104">r\_r</span>
+						<span xml:id="a338" target="#a255" from="#T104" to="#T105">&lt;p:&gt;</span>
+						<span xml:id="a339" target="#a256" from="#T105" to="#T106">c</span>
+						<span xml:id="a340" target="#a256" from="#T106" to="#T107">9</span>
+						<span xml:id="a341" target="#a256" from="#T107" to="#T108">v</span>
+						<span xml:id="a342" target="#a257" from="#T108" to="#T109">l</span>
+						<span xml:id="a343" target="#a257" from="#T109" to="#T110">{</span>
+						<span xml:id="a344" target="#a257" from="#T110" to="#T111">4</span>
+						<span xml:id="a345" target="#a258" from="#T111" to="#T112">{</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a346" target="#a238" from="#T67" to="#T70">****</span>
+						<span xml:id="a347" target="#a239" from="#T70" to="#T72">****</span>
+						<span xml:id="a348" target="#a240" from="#T72" to="#T73">****</span>
+						<span xml:id="a349" target="#a241" from="#T73" to="#T75">****</span>
+						<span xml:id="a350" target="#a242" from="#T75" to="#T77">****</span>
+						<span xml:id="a351" target="#a243" from="#T77" to="#T78">&lt;p:&gt;</span>
+						<span xml:id="a352" target="#a244" from="#T78" to="#T81">****</span>
+						<span xml:id="a353" target="#a245" from="#T81" to="#T83">****</span>
+						<span xml:id="a354" target="#a246" from="#T83" to="#T84">****</span>
+						<span xml:id="a355" target="#a247" from="#T84" to="#T89">****</span>
+						<span xml:id="a356" target="#a248" from="#T89" to="#T90">****</span>
+						<span xml:id="a357" target="#a249" from="#T90" to="#T91">&lt;p:&gt;</span>
+						<span xml:id="a358" target="#a250" from="#T91" to="#T94">****</span>
+						<span xml:id="a359" target="#a251" from="#T94" to="#T96">****</span>
+						<span xml:id="a360" target="#a252" from="#T96" to="#T99">****</span>
+						<span xml:id="a361" target="#a253" from="#T99" to="#T101">****</span>
+						<span xml:id="a362" target="#a254" from="#T101" to="#T104">****</span>
+						<span xml:id="a363" target="#a255" from="#T104" to="#T105">&lt;p:&gt;</span>
+						<span xml:id="a364" target="#a256" from="#T105" to="#T108">****</span>
+						<span xml:id="a365" target="#a257" from="#T108" to="#T111">****</span>
+						<span xml:id="a366" target="#a258" from="#T111" to="#T112">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a367" who="ref@B07" ana="#SPK1" start="#T112" end="#T113">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a368" target="#a367" from="#T112" to="#T113">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a369" target="#a367" from="#T112" to="#T113">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a370" target="#a367" from="#T112" to="#T113">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a371" target="#a370" from="#T112" to="#T113">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a372" target="#a371" from="#T112" to="#T113">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a373" target="#a371" from="#T112" to="#T113">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a374" target="#a371" from="#T112" to="#T113">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a375" target="#a371" from="#T112" to="#T113">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a376" who="ref@B07" ana="#SPK1" start="#T113" end="#T157">
+					<u>
+						<seg>0006_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a377" target="#a376" from="#T113" to="#T157">When they got to the villages, there were no houses, nor job, nor anything.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a378" target="#a376" from="#T113" to="#T157">kövlärä gäldılär nä yapılari var nä iš var nädä biše</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a379" target="#a376" from="#T113" to="#T120">kövlärä</span>
+						<span xml:id="a380" target="#a376" from="#T120" to="#T128">gäldılär</span>
+						<span xml:id="a381" target="#a376" from="#T128" to="#T130">nä</span>
+						<span xml:id="a382" target="#a376" from="#T130" to="#T138">yapılari</span>
+						<span xml:id="a383" target="#a376" from="#T138" to="#T141">var</span>
+						<span xml:id="a384" target="#a376" from="#T141" to="#T142">&lt;p:&gt;</span>
+						<span xml:id="a385" target="#a376" from="#T142" to="#T144">nä</span>
+						<span xml:id="a386" target="#a376" from="#T144" to="#T146">iš</span>
+						<span xml:id="a387" target="#a376" from="#T146" to="#T149">var</span>
+						<span xml:id="a388" target="#a376" from="#T149" to="#T153">nädä</span>
+						<span xml:id="a389" target="#a376" from="#T153" to="#T157">biše</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a390" target="#a379" from="#T113" to="#T116">köv</span>
+						<span xml:id="a391" target="#a379" from="#T116" to="#T119">-lär</span>
+						<span xml:id="a392" target="#a379" from="#T119" to="#T120">-ä</span>
+						<span xml:id="a393" target="#a380" from="#T120" to="#T123">gäl</span>
+						<span xml:id="a394" target="#a380" from="#T123" to="#T125">-dı</span>
+						<span xml:id="a395" target="#a380" from="#T125" to="#T128">-lär</span>
+						<span xml:id="a396" target="#a381" from="#T128" to="#T130">nä</span>
+						<span xml:id="a397" target="#a382" from="#T130" to="#T134">yapı</span>
+						<span xml:id="a398" target="#a382" from="#T134" to="#T137">-lar</span>
+						<span xml:id="a399" target="#a382" from="#T137" to="#T138">-i</span>
+						<span xml:id="a400" target="#a383" from="#T138" to="#T141">var</span>
+						<span xml:id="a401" target="#a384" from="#T141" to="#T142">&lt;p:&gt;</span>
+						<span xml:id="a402" target="#a385" from="#T142" to="#T144">nä</span>
+						<span xml:id="a403" target="#a386" from="#T144" to="#T146">iš</span>
+						<span xml:id="a404" target="#a387" from="#T146" to="#T149">var</span>
+						<span xml:id="a405" target="#a388" from="#T149" to="#T151">nä</span>
+						<span xml:id="a406" target="#a388" from="#T151" to="#T153">=dä</span>
+						<span xml:id="a407" target="#a389" from="#T153" to="#T157">biše</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a408" target="#a390" from="#T113" to="#T116">village</span>
+						<span xml:id="a409" target="#a391" from="#T116" to="#T119">-PL</span>
+						<span xml:id="a410" target="#a392" from="#T119" to="#T120">-DAT</span>
+						<span xml:id="a411" target="#a393" from="#T120" to="#T123">come</span>
+						<span xml:id="a412" target="#a394" from="#T123" to="#T125">-PST</span>
+						<span xml:id="a413" target="#a395" from="#T125" to="#T128">-PL</span>
+						<span xml:id="a414" target="#a396" from="#T128" to="#T130">what</span>
+						<span xml:id="a415" target="#a397" from="#T130" to="#T134">house</span>
+						<span xml:id="a416" target="#a398" from="#T134" to="#T137">-PL</span>
+						<span xml:id="a417" target="#a399" from="#T137" to="#T138">-ACC</span>
+						<span xml:id="a418" target="#a400" from="#T138" to="#T141">be</span>
+						<span xml:id="a419" target="#a401" from="#T141" to="#T142">&lt;p:&gt;</span>
+						<span xml:id="a420" target="#a402" from="#T142" to="#T144">what</span>
+						<span xml:id="a421" target="#a403" from="#T144" to="#T146">thing</span>
+						<span xml:id="a422" target="#a404" from="#T146" to="#T149">be</span>
+						<span xml:id="a423" target="#a405" from="#T149" to="#T151">what</span>
+						<span xml:id="a424" target="#a406" from="#T151" to="#T153">=and</span>
+						<span xml:id="a425" target="#a407" from="#T153" to="#T157">nothing</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a426" target="#a390" from="#T113" to="#T116">N</span>
+						<span xml:id="a427" target="#a391" from="#T116" to="#T119">-num</span>
+						<span xml:id="a428" target="#a392" from="#T119" to="#T120">-case</span>
+						<span xml:id="a429" target="#a393" from="#T120" to="#T123">V</span>
+						<span xml:id="a430" target="#a394" from="#T123" to="#T125">-tam</span>
+						<span xml:id="a431" target="#a395" from="#T125" to="#T128">-num</span>
+						<span xml:id="a432" target="#a396" from="#T128" to="#T130">PN</span>
+						<span xml:id="a433" target="#a397" from="#T130" to="#T134">N</span>
+						<span xml:id="a434" target="#a398" from="#T134" to="#T137">-num</span>
+						<span xml:id="a435" target="#a399" from="#T137" to="#T138">-case</span>
+						<span xml:id="a436" target="#a400" from="#T138" to="#T141">V</span>
+						<span xml:id="a437" target="#a401" from="#T141" to="#T142">&lt;p:&gt;</span>
+						<span xml:id="a438" target="#a402" from="#T142" to="#T144">PN</span>
+						<span xml:id="a439" target="#a403" from="#T144" to="#T146">N</span>
+						<span xml:id="a440" target="#a404" from="#T146" to="#T149">V</span>
+						<span xml:id="a441" target="#a405" from="#T149" to="#T151">PN</span>
+						<span xml:id="a442" target="#a406" from="#T151" to="#T153">=C</span>
+						<span xml:id="a443" target="#a407" from="#T153" to="#T157">Q</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a444" target="#a390" from="#T113" to="#T114">c</span>
+						<span xml:id="a445" target="#a390" from="#T114" to="#T115">9</span>
+						<span xml:id="a446" target="#a390" from="#T115" to="#T116">v</span>
+						<span xml:id="a447" target="#a391" from="#T116" to="#T117">l</span>
+						<span xml:id="a448" target="#a391" from="#T117" to="#T118">{</span>
+						<span xml:id="a449" target="#a391" from="#T118" to="#T119">4</span>
+						<span xml:id="a450" target="#a392" from="#T119" to="#T120">{</span>
+						<span xml:id="a451" target="#a393" from="#T120" to="#T121">J\</span>
+						<span xml:id="a452" target="#a393" from="#T121" to="#T122">{</span>
+						<span xml:id="a453" target="#a393" from="#T122" to="#T123">l</span>
+						<span xml:id="a454" target="#a394" from="#T123" to="#T124">d</span>
+						<span xml:id="a455" target="#a394" from="#T124" to="#T125">M</span>
+						<span xml:id="a456" target="#a395" from="#T125" to="#T126">5</span>
+						<span xml:id="a457" target="#a395" from="#T126" to="#T127">{</span>
+						<span xml:id="a458" target="#a395" from="#T127" to="#T128">r\_r</span>
+						<span xml:id="a459" target="#a396" from="#T128" to="#T129">n</span>
+						<span xml:id="a460" target="#a396" from="#T129" to="#T130">{</span>
+						<span xml:id="a461" target="#a397" from="#T130" to="#T131">j</span>
+						<span xml:id="a462" target="#a397" from="#T131" to="#T132">a</span>
+						<span xml:id="a463" target="#a397" from="#T132" to="#T133">p</span>
+						<span xml:id="a464" target="#a397" from="#T133" to="#T134">M</span>
+						<span xml:id="a465" target="#a398" from="#T134" to="#T135">5</span>
+						<span xml:id="a466" target="#a398" from="#T135" to="#T136">a</span>
+						<span xml:id="a467" target="#a398" from="#T136" to="#T137">4</span>
+						<span xml:id="a468" target="#a399" from="#T137" to="#T138">i</span>
+						<span xml:id="a469" target="#a400" from="#T138" to="#T139">v</span>
+						<span xml:id="a470" target="#a400" from="#T139" to="#T140">a</span>
+						<span xml:id="a471" target="#a400" from="#T140" to="#T141">r\_r</span>
+						<span xml:id="a472" target="#a401" from="#T141" to="#T142">&lt;p:&gt;</span>
+						<span xml:id="a473" target="#a402" from="#T142" to="#T143">n</span>
+						<span xml:id="a474" target="#a402" from="#T143" to="#T144">{</span>
+						<span xml:id="a475" target="#a403" from="#T144" to="#T145">i</span>
+						<span xml:id="a476" target="#a403" from="#T145" to="#T146">S</span>
+						<span xml:id="a477" target="#a404" from="#T146" to="#T147">v</span>
+						<span xml:id="a478" target="#a404" from="#T147" to="#T148">a</span>
+						<span xml:id="a479" target="#a404" from="#T148" to="#T149">r\_r</span>
+						<span xml:id="a480" target="#a405" from="#T149" to="#T150">n</span>
+						<span xml:id="a481" target="#a405" from="#T150" to="#T151">{</span>
+						<span xml:id="a482" target="#a406" from="#T151" to="#T152">d</span>
+						<span xml:id="a483" target="#a406" from="#T152" to="#T153">{</span>
+						<span xml:id="a484" target="#a407" from="#T153" to="#T154">b</span>
+						<span xml:id="a485" target="#a407" from="#T154" to="#T155">i</span>
+						<span xml:id="a486" target="#a407" from="#T155" to="#T156">S</span>
+						<span xml:id="a487" target="#a407" from="#T156" to="#T157">e</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a488" target="#a390" from="#T113" to="#T116">****</span>
+						<span xml:id="a489" target="#a391" from="#T116" to="#T119">****</span>
+						<span xml:id="a490" target="#a392" from="#T119" to="#T120">****</span>
+						<span xml:id="a491" target="#a393" from="#T120" to="#T123">****</span>
+						<span xml:id="a492" target="#a394" from="#T123" to="#T125">****</span>
+						<span xml:id="a493" target="#a395" from="#T125" to="#T128">****</span>
+						<span xml:id="a494" target="#a396" from="#T128" to="#T130">****</span>
+						<span xml:id="a495" target="#a397" from="#T130" to="#T134">****</span>
+						<span xml:id="a496" target="#a398" from="#T134" to="#T137">****</span>
+						<span xml:id="a497" target="#a399" from="#T137" to="#T138">****</span>
+						<span xml:id="a498" target="#a400" from="#T138" to="#T141">****</span>
+						<span xml:id="a499" target="#a401" from="#T141" to="#T142">&lt;p:&gt;</span>
+						<span xml:id="a500" target="#a402" from="#T142" to="#T144">****</span>
+						<span xml:id="a501" target="#a403" from="#T144" to="#T146">****</span>
+						<span xml:id="a502" target="#a404" from="#T146" to="#T149">****</span>
+						<span xml:id="a503" target="#a405" from="#T149" to="#T151">****</span>
+						<span xml:id="a504" target="#a406" from="#T151" to="#T153">****</span>
+						<span xml:id="a505" target="#a407" from="#T153" to="#T157">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a506" who="ref@B07" ana="#SPK1" start="#T157" end="#T179">
+					<u>
+						<seg>0007_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a507" target="#a506" from="#T157" to="#T179">Only hunger and thirst existed there.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a508" target="#a506" from="#T157" to="#T179">ajlıh susuzluh biše yoh</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a509" target="#a506" from="#T157" to="#T162">ajlıh</span>
+						<span xml:id="a510" target="#a506" from="#T162" to="#T163">&lt;p:&gt;</span>
+						<span xml:id="a511" target="#a506" from="#T163" to="#T171">susuzluh</span>
+						<span xml:id="a512" target="#a506" from="#T171" to="#T172">&lt;p:&gt;</span>
+						<span xml:id="a513" target="#a506" from="#T172" to="#T176">biše</span>
+						<span xml:id="a514" target="#a506" from="#T176" to="#T179">yoh</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a515" target="#a509" from="#T157" to="#T159">aj</span>
+						<span xml:id="a516" target="#a509" from="#T159" to="#T162">-lıh</span>
+						<span xml:id="a517" target="#a510" from="#T162" to="#T163">&lt;p:&gt;</span>
+						<span xml:id="a518" target="#a511" from="#T163" to="#T165">su</span>
+						<span xml:id="a519" target="#a511" from="#T165" to="#T168">-suz</span>
+						<span xml:id="a520" target="#a511" from="#T168" to="#T171">-luh</span>
+						<span xml:id="a521" target="#a512" from="#T171" to="#T172">&lt;p:&gt;</span>
+						<span xml:id="a522" target="#a513" from="#T172" to="#T176">biše</span>
+						<span xml:id="a523" target="#a514" from="#T176" to="#T179">yoh</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a524" target="#a515" from="#T157" to="#T159">hungry</span>
+						<span xml:id="a525" target="#a516" from="#T159" to="#T162">-NR</span>
+						<span xml:id="a526" target="#a517" from="#T162" to="#T163">&lt;p:&gt;</span>
+						<span xml:id="a527" target="#a518" from="#T163" to="#T165">water</span>
+						<span xml:id="a528" target="#a519" from="#T165" to="#T168">-without</span>
+						<span xml:id="a529" target="#a520" from="#T168" to="#T171">-NR</span>
+						<span xml:id="a530" target="#a521" from="#T171" to="#T172">&lt;p:&gt;</span>
+						<span xml:id="a531" target="#a522" from="#T172" to="#T176">something</span>
+						<span xml:id="a532" target="#a523" from="#T176" to="#T179">NEG.EXIST</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a533" target="#a515" from="#T157" to="#T159">A</span>
+						<span xml:id="a534" target="#a516" from="#T159" to="#T162">-X</span>
+						<span xml:id="a535" target="#a517" from="#T162" to="#T163">&lt;p:&gt;</span>
+						<span xml:id="a536" target="#a518" from="#T163" to="#T165">N</span>
+						<span xml:id="a537" target="#a519" from="#T165" to="#T168">-X</span>
+						<span xml:id="a538" target="#a520" from="#T168" to="#T171">-X</span>
+						<span xml:id="a539" target="#a521" from="#T171" to="#T172">&lt;p:&gt;</span>
+						<span xml:id="a540" target="#a522" from="#T172" to="#T176">Q</span>
+						<span xml:id="a541" target="#a523" from="#T176" to="#T179">V</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a542" target="#a515" from="#T157" to="#T158">a</span>
+						<span xml:id="a543" target="#a515" from="#T158" to="#T159">dZ</span>
+						<span xml:id="a544" target="#a516" from="#T159" to="#T160">l</span>
+						<span xml:id="a545" target="#a516" from="#T160" to="#T161">M</span>
+						<span xml:id="a546" target="#a516" from="#T161" to="#T162">x</span>
+						<span xml:id="a547" target="#a517" from="#T162" to="#T163">&lt;p:&gt;</span>
+						<span xml:id="a548" target="#a518" from="#T163" to="#T164">s</span>
+						<span xml:id="a549" target="#a518" from="#T164" to="#T165">u</span>
+						<span xml:id="a550" target="#a519" from="#T165" to="#T166">s</span>
+						<span xml:id="a551" target="#a519" from="#T166" to="#T167">u</span>
+						<span xml:id="a552" target="#a519" from="#T167" to="#T168">z</span>
+						<span xml:id="a553" target="#a520" from="#T168" to="#T169">l</span>
+						<span xml:id="a554" target="#a520" from="#T169" to="#T170">u</span>
+						<span xml:id="a555" target="#a520" from="#T170" to="#T171">x</span>
+						<span xml:id="a556" target="#a521" from="#T171" to="#T172">&lt;p:&gt;</span>
+						<span xml:id="a557" target="#a522" from="#T172" to="#T173">b</span>
+						<span xml:id="a558" target="#a522" from="#T173" to="#T174">i</span>
+						<span xml:id="a559" target="#a522" from="#T174" to="#T175">S</span>
+						<span xml:id="a560" target="#a522" from="#T175" to="#T176">e</span>
+						<span xml:id="a561" target="#a523" from="#T176" to="#T177">j</span>
+						<span xml:id="a562" target="#a523" from="#T177" to="#T178">o</span>
+						<span xml:id="a563" target="#a523" from="#T178" to="#T179">x</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a564" target="#a515" from="#T157" to="#T159">****</span>
+						<span xml:id="a565" target="#a516" from="#T159" to="#T162">****</span>
+						<span xml:id="a566" target="#a517" from="#T162" to="#T163">&lt;p:&gt;</span>
+						<span xml:id="a567" target="#a518" from="#T163" to="#T165">****</span>
+						<span xml:id="a568" target="#a519" from="#T165" to="#T168">****</span>
+						<span xml:id="a569" target="#a520" from="#T168" to="#T171">****</span>
+						<span xml:id="a570" target="#a521" from="#T171" to="#T172">&lt;p:&gt;</span>
+						<span xml:id="a571" target="#a522" from="#T172" to="#T176">****</span>
+						<span xml:id="a572" target="#a523" from="#T176" to="#T179">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a573" who="ref@B07" ana="#SPK1" start="#T179" end="#T180">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a574" target="#a573" from="#T179" to="#T180">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a575" target="#a573" from="#T179" to="#T180">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a576" target="#a573" from="#T179" to="#T180">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a577" target="#a576" from="#T179" to="#T180">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a578" target="#a577" from="#T179" to="#T180">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a579" target="#a577" from="#T179" to="#T180">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a580" target="#a577" from="#T179" to="#T180">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a581" target="#a577" from="#T179" to="#T180">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a582" who="ref@B07" ana="#SPK1" start="#T180" end="#T204">
+					<u>
+						<seg>0008_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a583" target="#a582" from="#T180" to="#T204">One part of them went to Russia.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a584" target="#a582" from="#T180" to="#T204">bir uji getti uruset täräfınä</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a585" target="#a582" from="#T180" to="#T183">bir</span>
+						<span xml:id="a586" target="#a582" from="#T183" to="#T186">uji</span>
+						<span xml:id="a587" target="#a582" from="#T186" to="#T190">getti</span>
+						<span xml:id="a588" target="#a582" from="#T190" to="#T196">uruset</span>
+						<span xml:id="a589" target="#a582" from="#T196" to="#T204">täräfınä</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a590" target="#a585" from="#T180" to="#T183">bir</span>
+						<span xml:id="a591" target="#a586" from="#T183" to="#T185">uj</span>
+						<span xml:id="a592" target="#a586" from="#T185" to="#T186">-i</span>
+						<span xml:id="a593" target="#a587" from="#T186" to="#T189">get</span>
+						<span xml:id="a594" target="#a587" from="#T189" to="#T190">-ti</span>
+						<span xml:id="a595" target="#a588" from="#T190" to="#T196">uruset</span>
+						<span xml:id="a596" target="#a589" from="#T196" to="#T201">täräf</span>
+						<span xml:id="a597" target="#a589" from="#T201" to="#T203">-ın</span>
+						<span xml:id="a598" target="#a589" from="#T203" to="#T204">-ä</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a599" target="#a590" from="#T180" to="#T183">one</span>
+						<span xml:id="a600" target="#a591" from="#T183" to="#T185">nipple</span>
+						<span xml:id="a601" target="#a592" from="#T185" to="#T186">-ACC</span>
+						<span xml:id="a602" target="#a593" from="#T186" to="#T189">go</span>
+						<span xml:id="a603" target="#a594" from="#T189" to="#T190">-PST</span>
+						<span xml:id="a604" target="#a595" from="#T190" to="#T196">Russia</span>
+						<span xml:id="a605" target="#a596" from="#T196" to="#T201">side</span>
+						<span xml:id="a606" target="#a597" from="#T201" to="#T203">-POSS.3</span>
+						<span xml:id="a607" target="#a598" from="#T203" to="#T204">-DAT</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a608" target="#a590" from="#T180" to="#T183">Q</span>
+						<span xml:id="a609" target="#a591" from="#T183" to="#T185">N</span>
+						<span xml:id="a610" target="#a592" from="#T185" to="#T186">-case</span>
+						<span xml:id="a611" target="#a593" from="#T186" to="#T189">V</span>
+						<span xml:id="a612" target="#a594" from="#T189" to="#T190">-tam</span>
+						<span xml:id="a613" target="#a595" from="#T190" to="#T196">N</span>
+						<span xml:id="a614" target="#a596" from="#T196" to="#T201">N</span>
+						<span xml:id="a615" target="#a597" from="#T201" to="#T203">-prs</span>
+						<span xml:id="a616" target="#a598" from="#T203" to="#T204">-case</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a617" target="#a590" from="#T180" to="#T181">b</span>
+						<span xml:id="a618" target="#a590" from="#T181" to="#T182">i</span>
+						<span xml:id="a619" target="#a590" from="#T182" to="#T183">r\_r</span>
+						<span xml:id="a620" target="#a591" from="#T183" to="#T184">u</span>
+						<span xml:id="a621" target="#a591" from="#T184" to="#T185">dZ</span>
+						<span xml:id="a622" target="#a592" from="#T185" to="#T186">i</span>
+						<span xml:id="a623" target="#a593" from="#T186" to="#T187">J\</span>
+						<span xml:id="a624" target="#a593" from="#T187" to="#T188">e</span>
+						<span xml:id="a625" target="#a593" from="#T188" to="#T189">t:</span>
+						<span xml:id="a626" target="#a594" from="#T189" to="#T190">i</span>
+						<span xml:id="a627" target="#a595" from="#T190" to="#T191">u</span>
+						<span xml:id="a628" target="#a595" from="#T191" to="#T192">4</span>
+						<span xml:id="a629" target="#a595" from="#T192" to="#T193">u</span>
+						<span xml:id="a630" target="#a595" from="#T193" to="#T194">s</span>
+						<span xml:id="a631" target="#a595" from="#T194" to="#T195">e</span>
+						<span xml:id="a632" target="#a595" from="#T195" to="#T196">t</span>
+						<span xml:id="a633" target="#a596" from="#T196" to="#T197">t</span>
+						<span xml:id="a634" target="#a596" from="#T197" to="#T198">{</span>
+						<span xml:id="a635" target="#a596" from="#T198" to="#T199">4</span>
+						<span xml:id="a636" target="#a596" from="#T199" to="#T200">{</span>
+						<span xml:id="a637" target="#a596" from="#T200" to="#T201">f</span>
+						<span xml:id="a638" target="#a597" from="#T201" to="#T202">M</span>
+						<span xml:id="a639" target="#a597" from="#T202" to="#T203">n</span>
+						<span xml:id="a640" target="#a598" from="#T203" to="#T204">{</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a641" target="#a590" from="#T180" to="#T183">****</span>
+						<span xml:id="a642" target="#a591" from="#T183" to="#T185">****</span>
+						<span xml:id="a643" target="#a592" from="#T185" to="#T186">****</span>
+						<span xml:id="a644" target="#a593" from="#T186" to="#T189">****</span>
+						<span xml:id="a645" target="#a594" from="#T189" to="#T190">****</span>
+						<span xml:id="a646" target="#a595" from="#T190" to="#T196">****</span>
+						<span xml:id="a647" target="#a596" from="#T196" to="#T201">****</span>
+						<span xml:id="a648" target="#a597" from="#T201" to="#T203">****</span>
+						<span xml:id="a649" target="#a598" from="#T203" to="#T204">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a650" who="ref@B07" ana="#SPK1" start="#T204" end="#T205">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a651" target="#a650" from="#T204" to="#T205">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a652" target="#a650" from="#T204" to="#T205">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a653" target="#a650" from="#T204" to="#T205">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a654" target="#a653" from="#T204" to="#T205">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a655" target="#a654" from="#T204" to="#T205">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a656" target="#a654" from="#T204" to="#T205">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a657" target="#a654" from="#T204" to="#T205">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a658" target="#a654" from="#T204" to="#T205">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a659" who="ref@B07" ana="#SPK1" start="#T205" end="#T226">
+					<u>
+						<seg>0009_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a660" target="#a659" from="#T205" to="#T226">Other part went to Georgia.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a661" target="#a659" from="#T205" to="#T226">bir uji getti gürjistana</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a662" target="#a659" from="#T205" to="#T208">bir</span>
+						<span xml:id="a663" target="#a659" from="#T208" to="#T211">uji</span>
+						<span xml:id="a664" target="#a659" from="#T211" to="#T215">getti</span>
+						<span xml:id="a665" target="#a659" from="#T215" to="#T216">&lt;p:&gt;</span>
+						<span xml:id="a666" target="#a659" from="#T216" to="#T226">gürjistana</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a667" target="#a662" from="#T205" to="#T208">bir</span>
+						<span xml:id="a668" target="#a663" from="#T208" to="#T210">uj</span>
+						<span xml:id="a669" target="#a663" from="#T210" to="#T211">-i</span>
+						<span xml:id="a670" target="#a664" from="#T211" to="#T214">get</span>
+						<span xml:id="a671" target="#a664" from="#T214" to="#T215">-ti</span>
+						<span xml:id="a672" target="#a665" from="#T215" to="#T216">&lt;p:&gt;</span>
+						<span xml:id="a673" target="#a666" from="#T216" to="#T225">gürjistan</span>
+						<span xml:id="a674" target="#a666" from="#T225" to="#T226">-a</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a675" target="#a667" from="#T205" to="#T208">one</span>
+						<span xml:id="a676" target="#a668" from="#T208" to="#T210">nipple</span>
+						<span xml:id="a677" target="#a669" from="#T210" to="#T211">-ACC</span>
+						<span xml:id="a678" target="#a670" from="#T211" to="#T214">go</span>
+						<span xml:id="a679" target="#a671" from="#T214" to="#T215">-PST</span>
+						<span xml:id="a680" target="#a672" from="#T215" to="#T216">&lt;p:&gt;</span>
+						<span xml:id="a681" target="#a673" from="#T216" to="#T225">Georgia</span>
+						<span xml:id="a682" target="#a674" from="#T225" to="#T226">-DAT</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a683" target="#a667" from="#T205" to="#T208">Q</span>
+						<span xml:id="a684" target="#a668" from="#T208" to="#T210">N</span>
+						<span xml:id="a685" target="#a669" from="#T210" to="#T211">-case</span>
+						<span xml:id="a686" target="#a670" from="#T211" to="#T214">V</span>
+						<span xml:id="a687" target="#a671" from="#T214" to="#T215">-tam</span>
+						<span xml:id="a688" target="#a672" from="#T215" to="#T216">&lt;p:&gt;</span>
+						<span xml:id="a689" target="#a673" from="#T216" to="#T225">N</span>
+						<span xml:id="a690" target="#a674" from="#T225" to="#T226">-case</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a691" target="#a667" from="#T205" to="#T206">b</span>
+						<span xml:id="a692" target="#a667" from="#T206" to="#T207">i</span>
+						<span xml:id="a693" target="#a667" from="#T207" to="#T208">r\_r</span>
+						<span xml:id="a694" target="#a668" from="#T208" to="#T209">u</span>
+						<span xml:id="a695" target="#a668" from="#T209" to="#T210">dZ</span>
+						<span xml:id="a696" target="#a669" from="#T210" to="#T211">i</span>
+						<span xml:id="a697" target="#a670" from="#T211" to="#T212">J\</span>
+						<span xml:id="a698" target="#a670" from="#T212" to="#T213">e</span>
+						<span xml:id="a699" target="#a670" from="#T213" to="#T214">t:</span>
+						<span xml:id="a700" target="#a671" from="#T214" to="#T215">i</span>
+						<span xml:id="a701" target="#a672" from="#T215" to="#T216">&lt;p:&gt;</span>
+						<span xml:id="a702" target="#a673" from="#T216" to="#T217">J\</span>
+						<span xml:id="a703" target="#a673" from="#T217" to="#T218">y</span>
+						<span xml:id="a704" target="#a673" from="#T218" to="#T219">4</span>
+						<span xml:id="a705" target="#a673" from="#T219" to="#T220">dZ</span>
+						<span xml:id="a706" target="#a673" from="#T220" to="#T221">i</span>
+						<span xml:id="a707" target="#a673" from="#T221" to="#T222">s</span>
+						<span xml:id="a708" target="#a673" from="#T222" to="#T223">t</span>
+						<span xml:id="a709" target="#a673" from="#T223" to="#T224">a</span>
+						<span xml:id="a710" target="#a673" from="#T224" to="#T225">n</span>
+						<span xml:id="a711" target="#a674" from="#T225" to="#T226">a</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a712" target="#a667" from="#T205" to="#T208">****</span>
+						<span xml:id="a713" target="#a668" from="#T208" to="#T210">****</span>
+						<span xml:id="a714" target="#a669" from="#T210" to="#T211">****</span>
+						<span xml:id="a715" target="#a670" from="#T211" to="#T214">****</span>
+						<span xml:id="a716" target="#a671" from="#T214" to="#T215">****</span>
+						<span xml:id="a717" target="#a672" from="#T215" to="#T216">&lt;p:&gt;</span>
+						<span xml:id="a718" target="#a673" from="#T216" to="#T225">****</span>
+						<span xml:id="a719" target="#a674" from="#T225" to="#T226">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a720" who="ref@B07" ana="#SPK1" start="#T226" end="#T227">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a721" target="#a720" from="#T226" to="#T227">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a722" target="#a720" from="#T226" to="#T227">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a723" target="#a720" from="#T226" to="#T227">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a724" target="#a723" from="#T226" to="#T227">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a725" target="#a724" from="#T226" to="#T227">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a726" target="#a724" from="#T226" to="#T227">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a727" target="#a724" from="#T226" to="#T227">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a728" target="#a724" from="#T226" to="#T227">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a729" who="ref@B07" ana="#SPK1" start="#T227" end="#T248">
+					<u>
+						<seg>0010_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a730" target="#a729" from="#T227" to="#T248">Other part started working here.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a731" target="#a729" from="#T227" to="#T248">bir uji bašladi išlämäya</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a732" target="#a729" from="#T227" to="#T230">bir</span>
+						<span xml:id="a733" target="#a729" from="#T230" to="#T233">uji</span>
+						<span xml:id="a734" target="#a729" from="#T233" to="#T240">bašladi</span>
+						<span xml:id="a735" target="#a729" from="#T240" to="#T248">išlämäya</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a736" target="#a732" from="#T227" to="#T230">bir</span>
+						<span xml:id="a737" target="#a733" from="#T230" to="#T232">uj</span>
+						<span xml:id="a738" target="#a733" from="#T232" to="#T233">-i</span>
+						<span xml:id="a739" target="#a734" from="#T233" to="#T238">bašla</span>
+						<span xml:id="a740" target="#a734" from="#T238" to="#T240">-di</span>
+						<span xml:id="a741" target="#a735" from="#T240" to="#T244">išlä</span>
+						<span xml:id="a742" target="#a735" from="#T244" to="#T246">-mä</span>
+						<span xml:id="a743" target="#a735" from="#T246" to="#T247">-y</span>
+						<span xml:id="a744" target="#a735" from="#T247" to="#T248">-a</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a745" target="#a736" from="#T227" to="#T230">one</span>
+						<span xml:id="a746" target="#a737" from="#T230" to="#T232">nipple</span>
+						<span xml:id="a747" target="#a738" from="#T232" to="#T233">-ACC</span>
+						<span xml:id="a748" target="#a739" from="#T233" to="#T238">start</span>
+						<span xml:id="a749" target="#a740" from="#T238" to="#T240">-PST</span>
+						<span xml:id="a750" target="#a741" from="#T240" to="#T244">work</span>
+						<span xml:id="a751" target="#a742" from="#T244" to="#T246">-INF</span>
+						<span xml:id="a752" target="#a743" from="#T246" to="#T247">-0</span>
+						<span xml:id="a753" target="#a744" from="#T247" to="#T248">-DAT</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a754" target="#a736" from="#T227" to="#T230">Q</span>
+						<span xml:id="a755" target="#a737" from="#T230" to="#T232">N</span>
+						<span xml:id="a756" target="#a738" from="#T232" to="#T233">-case</span>
+						<span xml:id="a757" target="#a739" from="#T233" to="#T238">V</span>
+						<span xml:id="a758" target="#a740" from="#T238" to="#T240">-tam</span>
+						<span xml:id="a759" target="#a741" from="#T240" to="#T244">V</span>
+						<span xml:id="a760" target="#a742" from="#T244" to="#T246">-fin</span>
+						<span xml:id="a761" target="#a743" from="#T246" to="#T247">-X</span>
+						<span xml:id="a762" target="#a744" from="#T247" to="#T248">-case</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a763" target="#a736" from="#T227" to="#T228">b</span>
+						<span xml:id="a764" target="#a736" from="#T228" to="#T229">i</span>
+						<span xml:id="a765" target="#a736" from="#T229" to="#T230">r\_r</span>
+						<span xml:id="a766" target="#a737" from="#T230" to="#T231">u</span>
+						<span xml:id="a767" target="#a737" from="#T231" to="#T232">dZ</span>
+						<span xml:id="a768" target="#a738" from="#T232" to="#T233">i</span>
+						<span xml:id="a769" target="#a739" from="#T233" to="#T234">b</span>
+						<span xml:id="a770" target="#a739" from="#T234" to="#T235">a</span>
+						<span xml:id="a771" target="#a739" from="#T235" to="#T236">S</span>
+						<span xml:id="a772" target="#a739" from="#T236" to="#T237">l</span>
+						<span xml:id="a773" target="#a739" from="#T237" to="#T238">a</span>
+						<span xml:id="a774" target="#a740" from="#T238" to="#T239">d</span>
+						<span xml:id="a775" target="#a740" from="#T239" to="#T240">i</span>
+						<span xml:id="a776" target="#a741" from="#T240" to="#T241">i</span>
+						<span xml:id="a777" target="#a741" from="#T241" to="#T242">S</span>
+						<span xml:id="a778" target="#a741" from="#T242" to="#T243">l</span>
+						<span xml:id="a779" target="#a741" from="#T243" to="#T244">{</span>
+						<span xml:id="a780" target="#a742" from="#T244" to="#T245">m</span>
+						<span xml:id="a781" target="#a742" from="#T245" to="#T246">{</span>
+						<span xml:id="a782" target="#a743" from="#T246" to="#T247">j</span>
+						<span xml:id="a783" target="#a744" from="#T247" to="#T248">a</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a784" target="#a736" from="#T227" to="#T230">****</span>
+						<span xml:id="a785" target="#a737" from="#T230" to="#T232">****</span>
+						<span xml:id="a786" target="#a738" from="#T232" to="#T233">****</span>
+						<span xml:id="a787" target="#a739" from="#T233" to="#T238">****</span>
+						<span xml:id="a788" target="#a740" from="#T238" to="#T240">****</span>
+						<span xml:id="a789" target="#a741" from="#T240" to="#T244">****</span>
+						<span xml:id="a790" target="#a742" from="#T244" to="#T246">****</span>
+						<span xml:id="a791" target="#a743" from="#T246" to="#T247">****</span>
+						<span xml:id="a792" target="#a744" from="#T247" to="#T248">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a793" who="ref@B07" ana="#SPK1" start="#T248" end="#T249">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a794" target="#a793" from="#T248" to="#T249">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a795" target="#a793" from="#T248" to="#T249">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a796" target="#a793" from="#T248" to="#T249">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a797" target="#a796" from="#T248" to="#T249">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a798" target="#a797" from="#T248" to="#T249">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a799" target="#a797" from="#T248" to="#T249">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a800" target="#a797" from="#T248" to="#T249">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a801" target="#a797" from="#T248" to="#T249">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a802" who="ref@B07" ana="#SPK1" start="#T249" end="#T265">
+					<u>
+						<seg>0011_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a803" target="#a802" from="#T249" to="#T265">Then they built houses.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a804" target="#a802" from="#T249" to="#T265">sora yapi yaptılar</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a805" target="#a802" from="#T249" to="#T253">sora</span>
+						<span xml:id="a806" target="#a802" from="#T253" to="#T257">yapi</span>
+						<span xml:id="a807" target="#a802" from="#T257" to="#T265">yaptılar</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a808" target="#a805" from="#T249" to="#T253">sora</span>
+						<span xml:id="a809" target="#a806" from="#T253" to="#T257">yapi</span>
+						<span xml:id="a810" target="#a807" from="#T257" to="#T260">yap</span>
+						<span xml:id="a811" target="#a807" from="#T260" to="#T262">-tı</span>
+						<span xml:id="a812" target="#a807" from="#T262" to="#T265">-lar</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a813" target="#a808" from="#T249" to="#T253">afterwards</span>
+						<span xml:id="a814" target="#a809" from="#T253" to="#T257">house</span>
+						<span xml:id="a815" target="#a810" from="#T257" to="#T260">build</span>
+						<span xml:id="a816" target="#a811" from="#T260" to="#T262">-PST</span>
+						<span xml:id="a817" target="#a812" from="#T262" to="#T265">-PL</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a818" target="#a808" from="#T249" to="#T253">A</span>
+						<span xml:id="a819" target="#a809" from="#T253" to="#T257">N</span>
+						<span xml:id="a820" target="#a810" from="#T257" to="#T260">V</span>
+						<span xml:id="a821" target="#a811" from="#T260" to="#T262">-tam</span>
+						<span xml:id="a822" target="#a812" from="#T262" to="#T265">-num</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a823" target="#a808" from="#T249" to="#T250">s</span>
+						<span xml:id="a824" target="#a808" from="#T250" to="#T251">o</span>
+						<span xml:id="a825" target="#a808" from="#T251" to="#T252">4</span>
+						<span xml:id="a826" target="#a808" from="#T252" to="#T253">a</span>
+						<span xml:id="a827" target="#a809" from="#T253" to="#T254">j</span>
+						<span xml:id="a828" target="#a809" from="#T254" to="#T255">a</span>
+						<span xml:id="a829" target="#a809" from="#T255" to="#T256">p</span>
+						<span xml:id="a830" target="#a809" from="#T256" to="#T257">i</span>
+						<span xml:id="a831" target="#a810" from="#T257" to="#T258">j</span>
+						<span xml:id="a832" target="#a810" from="#T258" to="#T259">a</span>
+						<span xml:id="a833" target="#a810" from="#T259" to="#T260">p</span>
+						<span xml:id="a834" target="#a811" from="#T260" to="#T261">t</span>
+						<span xml:id="a835" target="#a811" from="#T261" to="#T262">M</span>
+						<span xml:id="a836" target="#a812" from="#T262" to="#T263">5</span>
+						<span xml:id="a837" target="#a812" from="#T263" to="#T264">a</span>
+						<span xml:id="a838" target="#a812" from="#T264" to="#T265">r\_r</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a839" target="#a808" from="#T249" to="#T253">****</span>
+						<span xml:id="a840" target="#a809" from="#T253" to="#T257">****</span>
+						<span xml:id="a841" target="#a810" from="#T257" to="#T260">****</span>
+						<span xml:id="a842" target="#a811" from="#T260" to="#T262">****</span>
+						<span xml:id="a843" target="#a812" from="#T262" to="#T265">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a844" who="ref@B07" ana="#SPK1" start="#T265" end="#T266">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a845" target="#a844" from="#T265" to="#T266">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a846" target="#a844" from="#T265" to="#T266">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a847" target="#a844" from="#T265" to="#T266">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a848" target="#a847" from="#T265" to="#T266">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a849" target="#a848" from="#T265" to="#T266">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a850" target="#a848" from="#T265" to="#T266">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a851" target="#a848" from="#T265" to="#T266">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a852" target="#a848" from="#T265" to="#T266">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a853" who="ref@B07" ana="#SPK1" start="#T266" end="#T302">
+					<u>
+						<seg>0012_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a854" target="#a853" from="#T266" to="#T302">It was still hard living.</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a855" target="#a853" from="#T266" to="#T302">sorada ištem genä čätın čätın yašamahlar</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a856" target="#a853" from="#T266" to="#T272">sorada</span>
+						<span xml:id="a857" target="#a853" from="#T272" to="#T277">ištem</span>
+						<span xml:id="a858" target="#a853" from="#T277" to="#T281">genä</span>
+						<span xml:id="a859" target="#a853" from="#T281" to="#T286">čätın</span>
+						<span xml:id="a860" target="#a853" from="#T286" to="#T291">čätın</span>
+						<span xml:id="a861" target="#a853" from="#T291" to="#T292">&lt;p:&gt;</span>
+						<span xml:id="a862" target="#a853" from="#T292" to="#T302">yašamahlar</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a863" target="#a856" from="#T266" to="#T270">sora</span>
+						<span xml:id="a864" target="#a856" from="#T270" to="#T272">=da</span>
+						<span xml:id="a865" target="#a857" from="#T272" to="#T277">ištem</span>
+						<span xml:id="a866" target="#a858" from="#T277" to="#T281">genä</span>
+						<span xml:id="a867" target="#a859" from="#T281" to="#T286">čätın</span>
+						<span xml:id="a868" target="#a860" from="#T286" to="#T291">čätın</span>
+						<span xml:id="a869" target="#a861" from="#T291" to="#T292">&lt;p:&gt;</span>
+						<span xml:id="a870" target="#a862" from="#T292" to="#T296">yaša</span>
+						<span xml:id="a871" target="#a862" from="#T296" to="#T299">-mah</span>
+						<span xml:id="a872" target="#a862" from="#T299" to="#T302">-lar</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a873" target="#a863" from="#T266" to="#T270">afterwards</span>
+						<span xml:id="a874" target="#a864" from="#T270" to="#T272">=and</span>
+						<span xml:id="a875" target="#a865" from="#T272" to="#T277">so</span>
+						<span xml:id="a876" target="#a866" from="#T277" to="#T281">again</span>
+						<span xml:id="a877" target="#a867" from="#T281" to="#T286">difficult</span>
+						<span xml:id="a878" target="#a868" from="#T286" to="#T291">difficult</span>
+						<span xml:id="a879" target="#a869" from="#T291" to="#T292">&lt;p:&gt;</span>
+						<span xml:id="a880" target="#a870" from="#T292" to="#T296">live</span>
+						<span xml:id="a881" target="#a871" from="#T296" to="#T299">-INF</span>
+						<span xml:id="a882" target="#a872" from="#T299" to="#T302">-PL</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a883" target="#a863" from="#T266" to="#T270">A</span>
+						<span xml:id="a884" target="#a864" from="#T270" to="#T272">=C</span>
+						<span xml:id="a885" target="#a865" from="#T272" to="#T277">PRT</span>
+						<span xml:id="a886" target="#a866" from="#T277" to="#T281">A</span>
+						<span xml:id="a887" target="#a867" from="#T281" to="#T286">A</span>
+						<span xml:id="a888" target="#a868" from="#T286" to="#T291">A</span>
+						<span xml:id="a889" target="#a869" from="#T291" to="#T292">&lt;p:&gt;</span>
+						<span xml:id="a890" target="#a870" from="#T292" to="#T296">V</span>
+						<span xml:id="a891" target="#a871" from="#T296" to="#T299">-fin</span>
+						<span xml:id="a892" target="#a872" from="#T299" to="#T302">-num</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a893" target="#a863" from="#T266" to="#T267">s</span>
+						<span xml:id="a894" target="#a863" from="#T267" to="#T268">o</span>
+						<span xml:id="a895" target="#a863" from="#T268" to="#T269">4</span>
+						<span xml:id="a896" target="#a863" from="#T269" to="#T270">a</span>
+						<span xml:id="a897" target="#a864" from="#T270" to="#T271">d</span>
+						<span xml:id="a898" target="#a864" from="#T271" to="#T272">a</span>
+						<span xml:id="a899" target="#a865" from="#T272" to="#T273">i</span>
+						<span xml:id="a900" target="#a865" from="#T273" to="#T274">S</span>
+						<span xml:id="a901" target="#a865" from="#T274" to="#T275">t</span>
+						<span xml:id="a902" target="#a865" from="#T275" to="#T276">e</span>
+						<span xml:id="a903" target="#a865" from="#T276" to="#T277">m</span>
+						<span xml:id="a904" target="#a866" from="#T277" to="#T278">J\</span>
+						<span xml:id="a905" target="#a866" from="#T278" to="#T279">e</span>
+						<span xml:id="a906" target="#a866" from="#T279" to="#T280">n</span>
+						<span xml:id="a907" target="#a866" from="#T280" to="#T281">{</span>
+						<span xml:id="a908" target="#a867" from="#T281" to="#T282">tS</span>
+						<span xml:id="a909" target="#a867" from="#T282" to="#T283">{</span>
+						<span xml:id="a910" target="#a867" from="#T283" to="#T284">t</span>
+						<span xml:id="a911" target="#a867" from="#T284" to="#T285">M</span>
+						<span xml:id="a912" target="#a867" from="#T285" to="#T286">n</span>
+						<span xml:id="a913" target="#a868" from="#T286" to="#T287">tS</span>
+						<span xml:id="a914" target="#a868" from="#T287" to="#T288">{</span>
+						<span xml:id="a915" target="#a868" from="#T288" to="#T289">t</span>
+						<span xml:id="a916" target="#a868" from="#T289" to="#T290">M</span>
+						<span xml:id="a917" target="#a868" from="#T290" to="#T291">n</span>
+						<span xml:id="a918" target="#a869" from="#T291" to="#T292">&lt;p:&gt;</span>
+						<span xml:id="a919" target="#a870" from="#T292" to="#T293">j</span>
+						<span xml:id="a920" target="#a870" from="#T293" to="#T294">a</span>
+						<span xml:id="a921" target="#a870" from="#T294" to="#T295">S</span>
+						<span xml:id="a922" target="#a870" from="#T295" to="#T296">a</span>
+						<span xml:id="a923" target="#a871" from="#T296" to="#T297">m</span>
+						<span xml:id="a924" target="#a871" from="#T297" to="#T298">a</span>
+						<span xml:id="a925" target="#a871" from="#T298" to="#T299">x</span>
+						<span xml:id="a926" target="#a872" from="#T299" to="#T300">l</span>
+						<span xml:id="a927" target="#a872" from="#T300" to="#T301">a</span>
+						<span xml:id="a928" target="#a872" from="#T301" to="#T302">r\_r</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a929" target="#a863" from="#T266" to="#T270">****</span>
+						<span xml:id="a930" target="#a864" from="#T270" to="#T272">****</span>
+						<span xml:id="a931" target="#a865" from="#T272" to="#T277">****</span>
+						<span xml:id="a932" target="#a866" from="#T277" to="#T281">****</span>
+						<span xml:id="a933" target="#a867" from="#T281" to="#T286">****</span>
+						<span xml:id="a934" target="#a868" from="#T286" to="#T291">****</span>
+						<span xml:id="a935" target="#a869" from="#T291" to="#T292">&lt;p:&gt;</span>
+						<span xml:id="a936" target="#a870" from="#T292" to="#T296">****</span>
+						<span xml:id="a937" target="#a871" from="#T296" to="#T299">****</span>
+						<span xml:id="a938" target="#a872" from="#T299" to="#T302">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a939" who="ref@B07" ana="#SPK1" start="#T302" end="#T303">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a940" target="#a939" from="#T302" to="#T303">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a941" target="#a939" from="#T302" to="#T303">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a942" target="#a939" from="#T302" to="#T303">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a943" target="#a942" from="#T302" to="#T303">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a944" target="#a943" from="#T302" to="#T303">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a945" target="#a943" from="#T302" to="#T303">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a946" target="#a943" from="#T302" to="#T303">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a947" target="#a943" from="#T302" to="#T303">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a948" who="ref@B07" ana="#SPK1" start="#T303" end="#T304">
+					<u>
+						<seg>0013_doreco_urum1249_UUM-TXT-AN-00000-B07</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a949" target="#a948" from="#T303" to="#T304">Okey?</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a950" target="#a948" from="#T303" to="#T304">okey ?</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a951" target="#a948" from="#T303" to="#T304">&lt;&lt;fp&gt;okey&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a952" target="#a951" from="#T303" to="#T304">****</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a953" target="#a952" from="#T303" to="#T304">****</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a954" target="#a952" from="#T303" to="#T304">****</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a955" target="#a952" from="#T303" to="#T304">&lt;&lt;fp&gt;okey&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a956" target="#a952" from="#T303" to="#T304">****</span>
+					</spanGrp>
+				</annotationBlock>
+				<annotationBlock xml:id="a957" who="ref@B07" ana="#SPK1" start="#T304" end="#T305">
+					<u>
+						<seg>&lt;p:&gt;</seg>
+					</u>
+					<spanGrp type="ft@B07">
+						<span xml:id="a958" target="#a957" from="#T304" to="#T305">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="tx@B07">
+						<span xml:id="a959" target="#a957" from="#T304" to="#T305">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="wd@B07">
+						<span xml:id="a960" target="#a957" from="#T304" to="#T305">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="mb@B07">
+						<span xml:id="a961" target="#a960" from="#T304" to="#T305">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="gl@B07">
+						<span xml:id="a962" target="#a961" from="#T304" to="#T305">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ps@B07">
+						<span xml:id="a963" target="#a961" from="#T304" to="#T305">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="ph@B07">
+						<span xml:id="a964" target="#a961" from="#T304" to="#T305">&lt;p:&gt;</span>
+					</spanGrp>
+					<spanGrp type="doreco-mb-algn@B07">
+						<span xml:id="a965" target="#a961" from="#T304" to="#T305">&lt;p:&gt;</span>
+					</spanGrp>
+				</annotationBlock>
+			</div>
+		</body>
+	</text>
+</TEI>

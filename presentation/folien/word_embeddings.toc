@@ -1,0 +1,3 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {1}{Wörter (sinnvoll) als Zahlen darstellen}{3}{0}{1}
+\beamer@sectionintoc {2}{Worteinbettungen (Word Embeddings)}{16}{0}{2}

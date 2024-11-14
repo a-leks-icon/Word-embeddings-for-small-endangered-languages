@@ -1,0 +1,1862 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 2.490
+xmax = 57.080
+tiers? <exists>
+size = 7
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "ref@B07"
+		xmin = 2.490
+		xmax = 57.080
+		intervals: size = 15
+		intervals [1]:
+			xmin = 2.490
+			xmax = 7.030
+			text = "0001_doreco_urum1249_UUM-TXT-PP-00000-B07"
+		intervals [2]:
+			xmin = 7.030
+			xmax = 7.370
+			text = "<p:>"
+		intervals [3]:
+			xmin = 7.370
+			xmax = 10.250
+			text = "0002_doreco_urum1249_UUM-TXT-PP-00000-B07"
+		intervals [4]:
+			xmin = 10.250
+			xmax = 13.560
+			text = "0003_doreco_urum1249_UUM-TXT-PP-00000-B07"
+		intervals [5]:
+			xmin = 13.560
+			xmax = 14.070
+			text = "<p:>"
+		intervals [6]:
+			xmin = 14.070
+			xmax = 19.630
+			text = "0004_doreco_urum1249_UUM-TXT-PP-00000-B07"
+		intervals [7]:
+			xmin = 19.630
+			xmax = 19.960
+			text = "<p:>"
+		intervals [8]:
+			xmin = 19.960
+			xmax = 25.220
+			text = "0005_doreco_urum1249_UUM-TXT-PP-00000-B07"
+		intervals [9]:
+			xmin = 25.220
+			xmax = 27.600
+			text = "<p:>"
+		intervals [10]:
+			xmin = 27.600
+			xmax = 33.060
+			text = "0006_doreco_urum1249_UUM-TXT-PP-00000-B07"
+		intervals [11]:
+			xmin = 33.060
+			xmax = 38.070
+			text = "0007_doreco_urum1249_UUM-TXT-PP-00000-B07"
+		intervals [12]:
+			xmin = 38.070
+			xmax = 38.360
+			text = "<p:>"
+		intervals [13]:
+			xmin = 38.360
+			xmax = 42.030
+			text = "0008_doreco_urum1249_UUM-TXT-PP-00000-B07"
+		intervals [14]:
+			xmin = 42.030
+			xmax = 47.840
+			text = "<p:>"
+		intervals [15]:
+			xmin = 47.840
+			xmax = 57.080
+			text = "0009_doreco_urum1249_UUM-TXT-PP-00000-B07"
+	item [2]:
+		class = "IntervalTier"
+		name = "ft@B07"
+		xmin = 2.490
+		xmax = 57.080
+		intervals: size = 15
+		intervals [1]:
+			xmin = 2.490
+			xmax = 7.030
+			text = "We differ by our people and customs."
+		intervals [2]:
+			xmin = 7.030
+			xmax = 7.370
+			text = "<p:>"
+		intervals [3]:
+			xmin = 7.370
+			xmax = 10.250
+			text = "We speak other language and eat different food."
+		intervals [4]:
+			xmin = 10.250
+			xmax = 13.560
+			text = "We have other way of life."
+		intervals [5]:
+			xmin = 13.560
+			xmax = 14.070
+			text = "<p:>"
+		intervals [6]:
+			xmin = 14.070
+			xmax = 19.630
+			text = "And Georgians eat their traditional food, they speak their language and have their way of life."
+		intervals [7]:
+			xmin = 19.630
+			xmax = 19.960
+			text = "<p:>"
+		intervals [8]:
+			xmin = 19.960
+			xmax = 25.220
+			text = "Every nation has its own language and has a different way of life."
+		intervals [9]:
+			xmin = 25.220
+			xmax = 27.600
+			text = "<p:>"
+		intervals [10]:
+			xmin = 27.600
+			xmax = 33.060
+			text = "Our people make a buttermilk soup."
+		intervals [11]:
+			xmin = 33.060
+			xmax = 38.070
+			text = "They cook potatoes and eat it."
+		intervals [12]:
+			xmin = 38.070
+			xmax = 38.360
+			text = "<p:>"
+		intervals [13]:
+			xmin = 38.360
+			xmax = 42.030
+			text = "They eat puree and gimi."
+		intervals [14]:
+			xmin = 42.030
+			xmax = 47.840
+			text = "<p:>"
+		intervals [15]:
+			xmin = 47.840
+			xmax = 57.080
+			text = "And Georgians make Satsivi."
+	item [3]:
+		class = "IntervalTier"
+		name = "tx@B07"
+		xmin = 2.490
+		xmax = 57.080
+		intervals: size = 15
+		intervals [1]:
+			xmin = 2.490
+			xmax = 7.030
+			text = "bizım halh bizım ädät biz airi adam"
+		intervals [2]:
+			xmin = 7.030
+			xmax = 7.370
+			text = "<p:>"
+		intervals [3]:
+			xmin = 7.370
+			xmax = 10.250
+			text = "biz airi söilerıh biz airi ierıh"
+		intervals [4]:
+			xmin = 10.250
+			xmax = 13.560
+			text = "biz airi gäzerıh airida yašerıh"
+		intervals [5]:
+			xmin = 13.560
+			xmax = 14.070
+			text = "<p:>"
+		intervals [6]:
+			xmin = 14.070
+			xmax = 19.630
+			text = "gürjülärda gändının airi ierlär airi söilerlär airida gäzerlär"
+		intervals [7]:
+			xmin = 19.630
+			xmax = 19.960
+			text = "<p:>"
+		intervals [8]:
+			xmin = 19.960
+			xmax = 25.220
+			text = "ärkäš gändi milläti razni razni söilerlär razni razni günnäri vardır"
+		intervals [9]:
+			xmin = 25.220
+			xmax = 27.600
+			text = "<p:>"
+		intervals [10]:
+			xmin = 27.600
+			xmax = 33.060
+			text = "bizım halh airanni aš ederlär südli aš ederlär"
+		intervals [11]:
+			xmin = 33.060
+			xmax = 38.070
+			text = "hašıl ederlär gardof ä bišırerlär ierlär"
+		intervals [12]:
+			xmin = 38.070
+			xmax = 38.360
+			text = "<p:>"
+		intervals [13]:
+			xmin = 38.360
+			xmax = 42.030
+			text = "gardof äzer ierlär ğımi"
+		intervals [14]:
+			xmin = 42.030
+			xmax = 47.840
+			text = "<p:>"
+		intervals [15]:
+			xmin = 47.840
+			xmax = 57.080
+			text = "gürjülärın ederlär gürjülärda satsi satsivi ederlär"
+	item [4]:
+		class = "IntervalTier"
+		name = "wd@B07"
+		xmin = 2.490
+		xmax = 57.080
+		intervals: size = 66
+		intervals [1]:
+			xmin = 2.490
+			xmax = 3.138
+			text = "bizım"
+		intervals [2]:
+			xmin = 3.138
+			xmax = 3.787
+			text = "halh"
+		intervals [3]:
+			xmin = 3.787
+			xmax = 4.435
+			text = "bizım"
+		intervals [4]:
+			xmin = 4.435
+			xmax = 5.084
+			text = "ädät"
+		intervals [5]:
+			xmin = 5.084
+			xmax = 5.732
+			text = "biz"
+		intervals [6]:
+			xmin = 5.732
+			xmax = 6.381
+			text = "airi"
+		intervals [7]:
+			xmin = 6.381
+			xmax = 7.030
+			text = "adam"
+		intervals [8]:
+			xmin = 7.030
+			xmax = 7.370
+			text = "<p:>"
+		intervals [9]:
+			xmin = 7.370
+			xmax = 7.850
+			text = "biz"
+		intervals [10]:
+			xmin = 7.850
+			xmax = 8.330
+			text = "airi"
+		intervals [11]:
+			xmin = 8.330
+			xmax = 8.810
+			text = "söilerıh"
+		intervals [12]:
+			xmin = 8.810
+			xmax = 9.290
+			text = "biz"
+		intervals [13]:
+			xmin = 9.290
+			xmax = 9.770
+			text = "airi"
+		intervals [14]:
+			xmin = 9.770
+			xmax = 10.250
+			text = "ierıh"
+		intervals [15]:
+			xmin = 10.250
+			xmax = 10.968
+			text = "biz"
+		intervals [16]:
+			xmin = 10.968
+			xmax = 11.616
+			text = "airi"
+		intervals [17]:
+			xmin = 11.616
+			xmax = 12.264
+			text = "gäzerıh"
+		intervals [18]:
+			xmin = 12.264
+			xmax = 12.912
+			text = "airida"
+		intervals [19]:
+			xmin = 12.912
+			xmax = 13.560
+			text = "yašerıh"
+		intervals [20]:
+			xmin = 13.560
+			xmax = 14.070
+			text = "<p:>"
+		intervals [21]:
+			xmin = 14.070
+			xmax = 14.765
+			text = "gürjülärda"
+		intervals [22]:
+			xmin = 14.765
+			xmax = 15.460
+			text = "gändının"
+		intervals [23]:
+			xmin = 15.460
+			xmax = 16.155
+			text = "airi"
+		intervals [24]:
+			xmin = 16.155
+			xmax = 16.850
+			text = "ierlär"
+		intervals [25]:
+			xmin = 16.850
+			xmax = 17.545
+			text = "airi"
+		intervals [26]:
+			xmin = 17.545
+			xmax = 18.240
+			text = "söilerlär"
+		intervals [27]:
+			xmin = 18.240
+			xmax = 18.935
+			text = "airida"
+		intervals [28]:
+			xmin = 18.935
+			xmax = 19.630
+			text = "gäzerlär"
+		intervals [29]:
+			xmin = 19.630
+			xmax = 19.960
+			text = "<p:>"
+		intervals [30]:
+			xmin = 19.960
+			xmax = 20.486
+			text = "ärkäš"
+		intervals [31]:
+			xmin = 20.486
+			xmax = 21.012
+			text = "gändi"
+		intervals [32]:
+			xmin = 21.012
+			xmax = 21.538
+			text = "milläti"
+		intervals [33]:
+			xmin = 21.538
+			xmax = 22.064
+			text = "razni"
+		intervals [34]:
+			xmin = 22.064
+			xmax = 22.590
+			text = "razni"
+		intervals [35]:
+			xmin = 22.590
+			xmax = 23.116
+			text = "söilerlär"
+		intervals [36]:
+			xmin = 23.116
+			xmax = 23.642
+			text = "razni"
+		intervals [37]:
+			xmin = 23.642
+			xmax = 24.168
+			text = "razni"
+		intervals [38]:
+			xmin = 24.168
+			xmax = 24.694
+			text = "günnäri"
+		intervals [39]:
+			xmin = 24.694
+			xmax = 25.220
+			text = "vardır"
+		intervals [40]:
+			xmin = 25.220
+			xmax = 27.600
+			text = "<p:>"
+		intervals [41]:
+			xmin = 27.600
+			xmax = 28.282
+			text = "bizım"
+		intervals [42]:
+			xmin = 28.282
+			xmax = 28.965
+			text = "halh"
+		intervals [43]:
+			xmin = 28.965
+			xmax = 29.647
+			text = "airanni"
+		intervals [44]:
+			xmin = 29.647
+			xmax = 30.330
+			text = "aš"
+		intervals [45]:
+			xmin = 30.330
+			xmax = 31.012
+			text = "ederlär"
+		intervals [46]:
+			xmin = 31.012
+			xmax = 31.695
+			text = "südli"
+		intervals [47]:
+			xmin = 31.695
+			xmax = 32.377
+			text = "aš"
+		intervals [48]:
+			xmin = 32.377
+			xmax = 33.060
+			text = "ederlär"
+		intervals [49]:
+			xmin = 33.060
+			xmax = 33.920
+			text = "hašıl"
+		intervals [50]:
+			xmin = 33.920
+			xmax = 34.750
+			text = "ederlär"
+		intervals [51]:
+			xmin = 34.750
+			xmax = 35.580
+			text = "gardof"
+		intervals [52]:
+			xmin = 35.580
+			xmax = 36.410
+			text = "ä"
+		intervals [53]:
+			xmin = 36.410
+			xmax = 37.240
+			text = "bišırerlär"
+		intervals [54]:
+			xmin = 37.240
+			xmax = 38.070
+			text = "ierlär"
+		intervals [55]:
+			xmin = 38.070
+			xmax = 38.360
+			text = "<p:>"
+		intervals [56]:
+			xmin = 38.360
+			xmax = 39.277
+			text = "gardof"
+		intervals [57]:
+			xmin = 39.277
+			xmax = 40.195
+			text = "äzer"
+		intervals [58]:
+			xmin = 40.195
+			xmax = 41.112
+			text = "ierlär"
+		intervals [59]:
+			xmin = 41.112
+			xmax = 42.030
+			text = "ğımi"
+		intervals [60]:
+			xmin = 42.030
+			xmax = 47.840
+			text = "<p:>"
+		intervals [61]:
+			xmin = 47.840
+			xmax = 49.380
+			text = "gürjülärın"
+		intervals [62]:
+			xmin = 49.380
+			xmax = 50.920
+			text = "ederlär"
+		intervals [63]:
+			xmin = 50.920
+			xmax = 52.460
+			text = "gürjülärda"
+		intervals [64]:
+			xmin = 52.460
+			xmax = 54.000
+			text = "satsi"
+		intervals [65]:
+			xmin = 54.000
+			xmax = 55.540
+			text = "satsivi"
+		intervals [66]:
+			xmin = 55.540
+			xmax = 57.080
+			text = "ederlär"
+	item [5]:
+		class = "IntervalTier"
+		name = "mb@B07"
+		xmin = 2.490
+		xmax = 57.080
+		intervals: size = 114
+		intervals [1]:
+			xmin = 2.490
+			xmax = 2.814
+			text = "biz"
+		intervals [2]:
+			xmin = 2.814
+			xmax = 3.138
+			text = "-ım"
+		intervals [3]:
+			xmin = 3.138
+			xmax = 3.787
+			text = "halh"
+		intervals [4]:
+			xmin = 3.787
+			xmax = 4.111
+			text = "biz"
+		intervals [5]:
+			xmin = 4.111
+			xmax = 4.435
+			text = "-ım"
+		intervals [6]:
+			xmin = 4.435
+			xmax = 5.084
+			text = "ädät"
+		intervals [7]:
+			xmin = 5.084
+			xmax = 5.732
+			text = "biz"
+		intervals [8]:
+			xmin = 5.732
+			xmax = 6.381
+			text = "airi"
+		intervals [9]:
+			xmin = 6.381
+			xmax = 7.030
+			text = "adam"
+		intervals [10]:
+			xmin = 7.030
+			xmax = 7.370
+			text = "<p:>"
+		intervals [11]:
+			xmin = 7.370
+			xmax = 7.850
+			text = "biz"
+		intervals [12]:
+			xmin = 7.850
+			xmax = 8.330
+			text = "airi"
+		intervals [13]:
+			xmin = 8.330
+			xmax = 8.490
+			text = "söil"
+		intervals [14]:
+			xmin = 8.490
+			xmax = 8.650
+			text = "-er"
+		intervals [15]:
+			xmin = 8.650
+			xmax = 8.810
+			text = "-ıh"
+		intervals [16]:
+			xmin = 8.810
+			xmax = 9.290
+			text = "biz"
+		intervals [17]:
+			xmin = 9.290
+			xmax = 9.770
+			text = "airi"
+		intervals [18]:
+			xmin = 9.770
+			xmax = 9.930
+			text = "i"
+		intervals [19]:
+			xmin = 9.930
+			xmax = 10.090
+			text = "-er"
+		intervals [20]:
+			xmin = 10.090
+			xmax = 10.250
+			text = "-ıh"
+		intervals [21]:
+			xmin = 10.250
+			xmax = 10.968
+			text = "biz"
+		intervals [22]:
+			xmin = 10.968
+			xmax = 11.616
+			text = "airi"
+		intervals [23]:
+			xmin = 11.616
+			xmax = 11.832
+			text = "gäz"
+		intervals [24]:
+			xmin = 11.832
+			xmax = 12.048
+			text = "-er"
+		intervals [25]:
+			xmin = 12.048
+			xmax = 12.264
+			text = "-ıh"
+		intervals [26]:
+			xmin = 12.264
+			xmax = 12.588
+			text = "airi"
+		intervals [27]:
+			xmin = 12.588
+			xmax = 12.912
+			text = "=da"
+		intervals [28]:
+			xmin = 12.912
+			xmax = 13.128
+			text = "yaš"
+		intervals [29]:
+			xmin = 13.128
+			xmax = 13.344
+			text = "-er"
+		intervals [30]:
+			xmin = 13.344
+			xmax = 13.560
+			text = "-ıh"
+		intervals [31]:
+			xmin = 13.560
+			xmax = 14.070
+			text = "<p:>"
+		intervals [32]:
+			xmin = 14.070
+			xmax = 14.301
+			text = "gürjü"
+		intervals [33]:
+			xmin = 14.301
+			xmax = 14.533
+			text = "-lär"
+		intervals [34]:
+			xmin = 14.533
+			xmax = 14.765
+			text = "=da"
+		intervals [35]:
+			xmin = 14.765
+			xmax = 15.112
+			text = "gändı"
+		intervals [36]:
+			xmin = 15.112
+			xmax = 15.460
+			text = "-nın"
+		intervals [37]:
+			xmin = 15.460
+			xmax = 16.155
+			text = "airi"
+		intervals [38]:
+			xmin = 16.155
+			xmax = 16.386
+			text = "i"
+		intervals [39]:
+			xmin = 16.386
+			xmax = 16.618
+			text = "-er"
+		intervals [40]:
+			xmin = 16.618
+			xmax = 16.850
+			text = "-lär"
+		intervals [41]:
+			xmin = 16.850
+			xmax = 17.545
+			text = "airi"
+		intervals [42]:
+			xmin = 17.545
+			xmax = 17.776
+			text = "söil"
+		intervals [43]:
+			xmin = 17.776
+			xmax = 18.008
+			text = "-er"
+		intervals [44]:
+			xmin = 18.008
+			xmax = 18.240
+			text = "-lär"
+		intervals [45]:
+			xmin = 18.240
+			xmax = 18.587
+			text = "airi"
+		intervals [46]:
+			xmin = 18.587
+			xmax = 18.935
+			text = "-da"
+		intervals [47]:
+			xmin = 18.935
+			xmax = 19.166
+			text = "gäz"
+		intervals [48]:
+			xmin = 19.166
+			xmax = 19.398
+			text = "-er"
+		intervals [49]:
+			xmin = 19.398
+			xmax = 19.630
+			text = "-lär"
+		intervals [50]:
+			xmin = 19.630
+			xmax = 19.960
+			text = "<p:>"
+		intervals [51]:
+			xmin = 19.960
+			xmax = 20.486
+			text = "ärkäš"
+		intervals [52]:
+			xmin = 20.486
+			xmax = 21.012
+			text = "gändi"
+		intervals [53]:
+			xmin = 21.012
+			xmax = 21.538
+			text = "milläti"
+		intervals [54]:
+			xmin = 21.538
+			xmax = 22.064
+			text = "razni"
+		intervals [55]:
+			xmin = 22.064
+			xmax = 22.590
+			text = "razni"
+		intervals [56]:
+			xmin = 22.590
+			xmax = 22.765
+			text = "söil"
+		intervals [57]:
+			xmin = 22.765
+			xmax = 22.940
+			text = "-er"
+		intervals [58]:
+			xmin = 22.940
+			xmax = 23.116
+			text = "-lär"
+		intervals [59]:
+			xmin = 23.116
+			xmax = 23.642
+			text = "razni"
+		intervals [60]:
+			xmin = 23.642
+			xmax = 24.168
+			text = "razni"
+		intervals [61]:
+			xmin = 24.168
+			xmax = 24.343
+			text = "gün"
+		intervals [62]:
+			xmin = 24.343
+			xmax = 24.518
+			text = "-när"
+		intervals [63]:
+			xmin = 24.518
+			xmax = 24.694
+			text = "-i"
+		intervals [64]:
+			xmin = 24.694
+			xmax = 24.957
+			text = "-var"
+		intervals [65]:
+			xmin = 24.957
+			xmax = 25.220
+			text = "-dır"
+		intervals [66]:
+			xmin = 25.220
+			xmax = 27.600
+			text = "<p:>"
+		intervals [67]:
+			xmin = 27.600
+			xmax = 27.941
+			text = "biz"
+		intervals [68]:
+			xmin = 27.941
+			xmax = 28.282
+			text = "-ım"
+		intervals [69]:
+			xmin = 28.282
+			xmax = 28.965
+			text = "halh"
+		intervals [70]:
+			xmin = 28.965
+			xmax = 29.306
+			text = "airann"
+		intervals [71]:
+			xmin = 29.306
+			xmax = 29.647
+			text = "-i"
+		intervals [72]:
+			xmin = 29.647
+			xmax = 30.330
+			text = "aš"
+		intervals [73]:
+			xmin = 30.330
+			xmax = 30.557
+			text = "ed"
+		intervals [74]:
+			xmin = 30.557
+			xmax = 30.784
+			text = "-er"
+		intervals [75]:
+			xmin = 30.784
+			xmax = 31.012
+			text = "-lär"
+		intervals [76]:
+			xmin = 31.012
+			xmax = 31.353
+			text = "süd"
+		intervals [77]:
+			xmin = 31.353
+			xmax = 31.695
+			text = "-li"
+		intervals [78]:
+			xmin = 31.695
+			xmax = 32.377
+			text = "aš"
+		intervals [79]:
+			xmin = 32.377
+			xmax = 32.718
+			text = "eder"
+		intervals [80]:
+			xmin = 32.718
+			xmax = 33.060
+			text = "-lär"
+		intervals [81]:
+			xmin = 33.060
+			xmax = 33.920
+			text = "hašıl"
+		intervals [82]:
+			xmin = 33.920
+			xmax = 34.196
+			text = "ed"
+		intervals [83]:
+			xmin = 34.196
+			xmax = 34.473
+			text = "-er"
+		intervals [84]:
+			xmin = 34.473
+			xmax = 34.750
+			text = "-lär"
+		intervals [85]:
+			xmin = 34.750
+			xmax = 35.580
+			text = "gardof"
+		intervals [86]:
+			xmin = 35.580
+			xmax = 36.410
+			text = "ä"
+		intervals [87]:
+			xmin = 36.410
+			xmax = 36.686
+			text = "bišır"
+		intervals [88]:
+			xmin = 36.686
+			xmax = 36.963
+			text = "-er"
+		intervals [89]:
+			xmin = 36.963
+			xmax = 37.240
+			text = "-lär"
+		intervals [90]:
+			xmin = 37.240
+			xmax = 37.516
+			text = "i"
+		intervals [91]:
+			xmin = 37.516
+			xmax = 37.793
+			text = "-er"
+		intervals [92]:
+			xmin = 37.793
+			xmax = 38.070
+			text = "-lär"
+		intervals [93]:
+			xmin = 38.070
+			xmax = 38.360
+			text = "<p:>"
+		intervals [94]:
+			xmin = 38.360
+			xmax = 39.277
+			text = "gardof"
+		intervals [95]:
+			xmin = 39.277
+			xmax = 39.736
+			text = "äz"
+		intervals [96]:
+			xmin = 39.736
+			xmax = 40.195
+			text = "-er"
+		intervals [97]:
+			xmin = 40.195
+			xmax = 40.500
+			text = "i"
+		intervals [98]:
+			xmin = 40.500
+			xmax = 40.806
+			text = "-er"
+		intervals [99]:
+			xmin = 40.806
+			xmax = 41.112
+			text = "-lär"
+		intervals [100]:
+			xmin = 41.112
+			xmax = 42.030
+			text = "ğımi"
+		intervals [101]:
+			xmin = 42.030
+			xmax = 47.840
+			text = "<p:>"
+		intervals [102]:
+			xmin = 47.840
+			xmax = 48.353
+			text = "gürjü"
+		intervals [103]:
+			xmin = 48.353
+			xmax = 48.866
+			text = "-lär"
+		intervals [104]:
+			xmin = 48.866
+			xmax = 49.380
+			text = "-ın"
+		intervals [105]:
+			xmin = 49.380
+			xmax = 49.893
+			text = "ed"
+		intervals [106]:
+			xmin = 49.893
+			xmax = 50.406
+			text = "-er"
+		intervals [107]:
+			xmin = 50.406
+			xmax = 50.920
+			text = "-lär"
+		intervals [108]:
+			xmin = 50.920
+			xmax = 51.433
+			text = "gürjü"
+		intervals [109]:
+			xmin = 51.433
+			xmax = 51.946
+			text = "-lär"
+		intervals [110]:
+			xmin = 51.946
+			xmax = 52.460
+			text = "=da"
+		intervals [111]:
+			xmin = 52.460
+			xmax = 54.000
+			text = "satsi"
+		intervals [112]:
+			xmin = 54.000
+			xmax = 55.540
+			text = "satsivi"
+		intervals [113]:
+			xmin = 55.540
+			xmax = 56.310
+			text = "eder"
+		intervals [114]:
+			xmin = 56.310
+			xmax = 57.080
+			text = "-lär"
+	item [6]:
+		class = "IntervalTier"
+		name = "gl@B07"
+		xmin = 2.490
+		xmax = 57.080
+		intervals: size = 114
+		intervals [1]:
+			xmin = 2.490
+			xmax = 2.814
+			text = "1.PL"
+		intervals [2]:
+			xmin = 2.814
+			xmax = 3.138
+			text = "-GEN"
+		intervals [3]:
+			xmin = 3.138
+			xmax = 3.787
+			text = "people"
+		intervals [4]:
+			xmin = 3.787
+			xmax = 4.111
+			text = "1.PL"
+		intervals [5]:
+			xmin = 4.111
+			xmax = 4.435
+			text = "-GEN"
+		intervals [6]:
+			xmin = 4.435
+			xmax = 5.084
+			text = "custom"
+		intervals [7]:
+			xmin = 5.084
+			xmax = 5.732
+			text = "1.PL"
+		intervals [8]:
+			xmin = 5.732
+			xmax = 6.381
+			text = "another"
+		intervals [9]:
+			xmin = 6.381
+			xmax = 7.030
+			text = "person"
+		intervals [10]:
+			xmin = 7.030
+			xmax = 7.370
+			text = "<p:>"
+		intervals [11]:
+			xmin = 7.370
+			xmax = 7.850
+			text = "1.PL"
+		intervals [12]:
+			xmin = 7.850
+			xmax = 8.330
+			text = "another"
+		intervals [13]:
+			xmin = 8.330
+			xmax = 8.490
+			text = "speak"
+		intervals [14]:
+			xmin = 8.490
+			xmax = 8.650
+			text = "-AOR"
+		intervals [15]:
+			xmin = 8.650
+			xmax = 8.810
+			text = "-1.PL"
+		intervals [16]:
+			xmin = 8.810
+			xmax = 9.290
+			text = "1.PL"
+		intervals [17]:
+			xmin = 9.290
+			xmax = 9.770
+			text = "another"
+		intervals [18]:
+			xmin = 9.770
+			xmax = 9.930
+			text = "eat"
+		intervals [19]:
+			xmin = 9.930
+			xmax = 10.090
+			text = "-AOR"
+		intervals [20]:
+			xmin = 10.090
+			xmax = 10.250
+			text = "-1.PL"
+		intervals [21]:
+			xmin = 10.250
+			xmax = 10.968
+			text = "1.PL"
+		intervals [22]:
+			xmin = 10.968
+			xmax = 11.616
+			text = "another"
+		intervals [23]:
+			xmin = 11.616
+			xmax = 11.832
+			text = "walk"
+		intervals [24]:
+			xmin = 11.832
+			xmax = 12.048
+			text = "-AOR"
+		intervals [25]:
+			xmin = 12.048
+			xmax = 12.264
+			text = "-1.PL"
+		intervals [26]:
+			xmin = 12.264
+			xmax = 12.588
+			text = "another"
+		intervals [27]:
+			xmin = 12.588
+			xmax = 12.912
+			text = "=and"
+		intervals [28]:
+			xmin = 12.912
+			xmax = 13.128
+			text = "live"
+		intervals [29]:
+			xmin = 13.128
+			xmax = 13.344
+			text = "-AOR"
+		intervals [30]:
+			xmin = 13.344
+			xmax = 13.560
+			text = "-1.PL"
+		intervals [31]:
+			xmin = 13.560
+			xmax = 14.070
+			text = "<p:>"
+		intervals [32]:
+			xmin = 14.070
+			xmax = 14.301
+			text = "Georgian"
+		intervals [33]:
+			xmin = 14.301
+			xmax = 14.533
+			text = "-PL"
+		intervals [34]:
+			xmin = 14.533
+			xmax = 14.765
+			text = "=and"
+		intervals [35]:
+			xmin = 14.765
+			xmax = 15.112
+			text = "itself"
+		intervals [36]:
+			xmin = 15.112
+			xmax = 15.460
+			text = "-GEN"
+		intervals [37]:
+			xmin = 15.460
+			xmax = 16.155
+			text = "another"
+		intervals [38]:
+			xmin = 16.155
+			xmax = 16.386
+			text = "eat"
+		intervals [39]:
+			xmin = 16.386
+			xmax = 16.618
+			text = "-AOR"
+		intervals [40]:
+			xmin = 16.618
+			xmax = 16.850
+			text = "-PL"
+		intervals [41]:
+			xmin = 16.850
+			xmax = 17.545
+			text = "another"
+		intervals [42]:
+			xmin = 17.545
+			xmax = 17.776
+			text = "speak"
+		intervals [43]:
+			xmin = 17.776
+			xmax = 18.008
+			text = "-AOR"
+		intervals [44]:
+			xmin = 18.008
+			xmax = 18.240
+			text = "-PL"
+		intervals [45]:
+			xmin = 18.240
+			xmax = 18.587
+			text = "another"
+		intervals [46]:
+			xmin = 18.587
+			xmax = 18.935
+			text = "-and"
+		intervals [47]:
+			xmin = 18.935
+			xmax = 19.166
+			text = "walk"
+		intervals [48]:
+			xmin = 19.166
+			xmax = 19.398
+			text = "-AOR"
+		intervals [49]:
+			xmin = 19.398
+			xmax = 19.630
+			text = "-PL"
+		intervals [50]:
+			xmin = 19.630
+			xmax = 19.960
+			text = "<p:>"
+		intervals [51]:
+			xmin = 19.960
+			xmax = 20.486
+			text = "all"
+		intervals [52]:
+			xmin = 20.486
+			xmax = 21.012
+			text = "own"
+		intervals [53]:
+			xmin = 21.012
+			xmax = 21.538
+			text = "nation"
+		intervals [54]:
+			xmin = 21.538
+			xmax = 22.064
+			text = "different"
+		intervals [55]:
+			xmin = 22.064
+			xmax = 22.590
+			text = "different"
+		intervals [56]:
+			xmin = 22.590
+			xmax = 22.765
+			text = "speak"
+		intervals [57]:
+			xmin = 22.765
+			xmax = 22.940
+			text = "-AOR"
+		intervals [58]:
+			xmin = 22.940
+			xmax = 23.116
+			text = "-PL"
+		intervals [59]:
+			xmin = 23.116
+			xmax = 23.642
+			text = "different"
+		intervals [60]:
+			xmin = 23.642
+			xmax = 24.168
+			text = "different"
+		intervals [61]:
+			xmin = 24.168
+			xmax = 24.343
+			text = "day"
+		intervals [62]:
+			xmin = 24.343
+			xmax = 24.518
+			text = "-PL"
+		intervals [63]:
+			xmin = 24.518
+			xmax = 24.694
+			text = "-POSS.3"
+		intervals [64]:
+			xmin = 24.694
+			xmax = 24.957
+			text = "-be"
+		intervals [65]:
+			xmin = 24.957
+			xmax = 25.220
+			text = "-EPST.COP"
+		intervals [66]:
+			xmin = 25.220
+			xmax = 27.600
+			text = "<p:>"
+		intervals [67]:
+			xmin = 27.600
+			xmax = 27.941
+			text = "1.PL"
+		intervals [68]:
+			xmin = 27.941
+			xmax = 28.282
+			text = "-GEN"
+		intervals [69]:
+			xmin = 28.282
+			xmax = 28.965
+			text = "people"
+		intervals [70]:
+			xmin = 28.965
+			xmax = 29.306
+			text = "buttermilk"
+		intervals [71]:
+			xmin = 29.306
+			xmax = 29.647
+			text = "-ACC"
+		intervals [72]:
+			xmin = 29.647
+			xmax = 30.330
+			text = "soup"
+		intervals [73]:
+			xmin = 30.330
+			xmax = 30.557
+			text = "do"
+		intervals [74]:
+			xmin = 30.557
+			xmax = 30.784
+			text = "-AOR"
+		intervals [75]:
+			xmin = 30.784
+			xmax = 31.012
+			text = "-PL"
+		intervals [76]:
+			xmin = 31.012
+			xmax = 31.353
+			text = "milk"
+		intervals [77]:
+			xmin = 31.353
+			xmax = 31.695
+			text = "-INSTR"
+		intervals [78]:
+			xmin = 31.695
+			xmax = 32.377
+			text = "soup"
+		intervals [79]:
+			xmin = 32.377
+			xmax = 32.718
+			text = "feed"
+		intervals [80]:
+			xmin = 32.718
+			xmax = 33.060
+			text = "-PL"
+		intervals [81]:
+			xmin = 33.060
+			xmax = 33.920
+			text = "boiled"
+		intervals [82]:
+			xmin = 33.920
+			xmax = 34.196
+			text = "do"
+		intervals [83]:
+			xmin = 34.196
+			xmax = 34.473
+			text = "-AOR"
+		intervals [84]:
+			xmin = 34.473
+			xmax = 34.750
+			text = "-PL"
+		intervals [85]:
+			xmin = 34.750
+			xmax = 35.580
+			text = "potatoe"
+		intervals [86]:
+			xmin = 35.580
+			xmax = 36.410
+			text = "HESIT"
+		intervals [87]:
+			xmin = 36.410
+			xmax = 36.686
+			text = "cook"
+		intervals [88]:
+			xmin = 36.686
+			xmax = 36.963
+			text = "-AOR"
+		intervals [89]:
+			xmin = 36.963
+			xmax = 37.240
+			text = "-PL"
+		intervals [90]:
+			xmin = 37.240
+			xmax = 37.516
+			text = "eat"
+		intervals [91]:
+			xmin = 37.516
+			xmax = 37.793
+			text = "-AOR"
+		intervals [92]:
+			xmin = 37.793
+			xmax = 38.070
+			text = "-PL"
+		intervals [93]:
+			xmin = 38.070
+			xmax = 38.360
+			text = "<p:>"
+		intervals [94]:
+			xmin = 38.360
+			xmax = 39.277
+			text = "potatoe"
+		intervals [95]:
+			xmin = 39.277
+			xmax = 39.736
+			text = "smash"
+		intervals [96]:
+			xmin = 39.736
+			xmax = 40.195
+			text = "-AOR"
+		intervals [97]:
+			xmin = 40.195
+			xmax = 40.500
+			text = "eat"
+		intervals [98]:
+			xmin = 40.500
+			xmax = 40.806
+			text = "-AOR"
+		intervals [99]:
+			xmin = 40.806
+			xmax = 41.112
+			text = "-PL"
+		intervals [100]:
+			xmin = 41.112
+			xmax = 42.030
+			text = "Gimi"
+		intervals [101]:
+			xmin = 42.030
+			xmax = 47.840
+			text = "<p:>"
+		intervals [102]:
+			xmin = 47.840
+			xmax = 48.353
+			text = "Georgian"
+		intervals [103]:
+			xmin = 48.353
+			xmax = 48.866
+			text = "-PL"
+		intervals [104]:
+			xmin = 48.866
+			xmax = 49.380
+			text = "-GEN"
+		intervals [105]:
+			xmin = 49.380
+			xmax = 49.893
+			text = "do"
+		intervals [106]:
+			xmin = 49.893
+			xmax = 50.406
+			text = "-AOR"
+		intervals [107]:
+			xmin = 50.406
+			xmax = 50.920
+			text = "-PL"
+		intervals [108]:
+			xmin = 50.920
+			xmax = 51.433
+			text = "Georgian"
+		intervals [109]:
+			xmin = 51.433
+			xmax = 51.946
+			text = "-PL"
+		intervals [110]:
+			xmin = 51.946
+			xmax = 52.460
+			text = "=and"
+		intervals [111]:
+			xmin = 52.460
+			xmax = 54.000
+			text = "Satsivi (Georgian food)"
+		intervals [112]:
+			xmin = 54.000
+			xmax = 55.540
+			text = "Satsivi (Georgian food)"
+		intervals [113]:
+			xmin = 55.540
+			xmax = 56.310
+			text = "feed"
+		intervals [114]:
+			xmin = 56.310
+			xmax = 57.080
+			text = "-PL"
+	item [7]:
+		class = "IntervalTier"
+		name = "ps@B07"
+		xmin = 2.490
+		xmax = 57.080
+		intervals: size = 114
+		intervals [1]:
+			xmin = 2.490
+			xmax = 2.814
+			text = "PN"
+		intervals [2]:
+			xmin = 2.814
+			xmax = 3.138
+			text = "-case"
+		intervals [3]:
+			xmin = 3.138
+			xmax = 3.787
+			text = "N"
+		intervals [4]:
+			xmin = 3.787
+			xmax = 4.111
+			text = "PN"
+		intervals [5]:
+			xmin = 4.111
+			xmax = 4.435
+			text = "-case"
+		intervals [6]:
+			xmin = 4.435
+			xmax = 5.084
+			text = "N"
+		intervals [7]:
+			xmin = 5.084
+			xmax = 5.732
+			text = "PN"
+		intervals [8]:
+			xmin = 5.732
+			xmax = 6.381
+			text = "A"
+		intervals [9]:
+			xmin = 6.381
+			xmax = 7.030
+			text = "N"
+		intervals [10]:
+			xmin = 7.030
+			xmax = 7.370
+			text = "<p:>"
+		intervals [11]:
+			xmin = 7.370
+			xmax = 7.850
+			text = "PN"
+		intervals [12]:
+			xmin = 7.850
+			xmax = 8.330
+			text = "A"
+		intervals [13]:
+			xmin = 8.330
+			xmax = 8.490
+			text = "V"
+		intervals [14]:
+			xmin = 8.490
+			xmax = 8.650
+			text = "-tam"
+		intervals [15]:
+			xmin = 8.650
+			xmax = 8.810
+			text = "-prs"
+		intervals [16]:
+			xmin = 8.810
+			xmax = 9.290
+			text = "PN"
+		intervals [17]:
+			xmin = 9.290
+			xmax = 9.770
+			text = "A"
+		intervals [18]:
+			xmin = 9.770
+			xmax = 9.930
+			text = "V"
+		intervals [19]:
+			xmin = 9.930
+			xmax = 10.090
+			text = "-tam"
+		intervals [20]:
+			xmin = 10.090
+			xmax = 10.250
+			text = "-prs"
+		intervals [21]:
+			xmin = 10.250
+			xmax = 10.968
+			text = "PN"
+		intervals [22]:
+			xmin = 10.968
+			xmax = 11.616
+			text = "A"
+		intervals [23]:
+			xmin = 11.616
+			xmax = 11.832
+			text = "V"
+		intervals [24]:
+			xmin = 11.832
+			xmax = 12.048
+			text = "-tam"
+		intervals [25]:
+			xmin = 12.048
+			xmax = 12.264
+			text = "-prs"
+		intervals [26]:
+			xmin = 12.264
+			xmax = 12.588
+			text = "A"
+		intervals [27]:
+			xmin = 12.588
+			xmax = 12.912
+			text = "=C"
+		intervals [28]:
+			xmin = 12.912
+			xmax = 13.128
+			text = "V"
+		intervals [29]:
+			xmin = 13.128
+			xmax = 13.344
+			text = "-tam"
+		intervals [30]:
+			xmin = 13.344
+			xmax = 13.560
+			text = "-prs"
+		intervals [31]:
+			xmin = 13.560
+			xmax = 14.070
+			text = "<p:>"
+		intervals [32]:
+			xmin = 14.070
+			xmax = 14.301
+			text = "N"
+		intervals [33]:
+			xmin = 14.301
+			xmax = 14.533
+			text = "-num"
+		intervals [34]:
+			xmin = 14.533
+			xmax = 14.765
+			text = "=C"
+		intervals [35]:
+			xmin = 14.765
+			xmax = 15.112
+			text = "PR"
+		intervals [36]:
+			xmin = 15.112
+			xmax = 15.460
+			text = "-case"
+		intervals [37]:
+			xmin = 15.460
+			xmax = 16.155
+			text = "A"
+		intervals [38]:
+			xmin = 16.155
+			xmax = 16.386
+			text = "V"
+		intervals [39]:
+			xmin = 16.386
+			xmax = 16.618
+			text = "-tam"
+		intervals [40]:
+			xmin = 16.618
+			xmax = 16.850
+			text = "-num"
+		intervals [41]:
+			xmin = 16.850
+			xmax = 17.545
+			text = "A"
+		intervals [42]:
+			xmin = 17.545
+			xmax = 17.776
+			text = "V"
+		intervals [43]:
+			xmin = 17.776
+			xmax = 18.008
+			text = "-tam"
+		intervals [44]:
+			xmin = 18.008
+			xmax = 18.240
+			text = "-num"
+		intervals [45]:
+			xmin = 18.240
+			xmax = 18.587
+			text = "A"
+		intervals [46]:
+			xmin = 18.587
+			xmax = 18.935
+			text = "C"
+		intervals [47]:
+			xmin = 18.935
+			xmax = 19.166
+			text = "V"
+		intervals [48]:
+			xmin = 19.166
+			xmax = 19.398
+			text = "-tam"
+		intervals [49]:
+			xmin = 19.398
+			xmax = 19.630
+			text = "-num"
+		intervals [50]:
+			xmin = 19.630
+			xmax = 19.960
+			text = "<p:>"
+		intervals [51]:
+			xmin = 19.960
+			xmax = 20.486
+			text = "PN"
+		intervals [52]:
+			xmin = 20.486
+			xmax = 21.012
+			text = "A"
+		intervals [53]:
+			xmin = 21.012
+			xmax = 21.538
+			text = "N"
+		intervals [54]:
+			xmin = 21.538
+			xmax = 22.064
+			text = "A"
+		intervals [55]:
+			xmin = 22.064
+			xmax = 22.590
+			text = "A"
+		intervals [56]:
+			xmin = 22.590
+			xmax = 22.765
+			text = "V"
+		intervals [57]:
+			xmin = 22.765
+			xmax = 22.940
+			text = "-tam"
+		intervals [58]:
+			xmin = 22.940
+			xmax = 23.116
+			text = "-num"
+		intervals [59]:
+			xmin = 23.116
+			xmax = 23.642
+			text = "A"
+		intervals [60]:
+			xmin = 23.642
+			xmax = 24.168
+			text = "A"
+		intervals [61]:
+			xmin = 24.168
+			xmax = 24.343
+			text = "N"
+		intervals [62]:
+			xmin = 24.343
+			xmax = 24.518
+			text = "-num"
+		intervals [63]:
+			xmin = 24.518
+			xmax = 24.694
+			text = "-prs"
+		intervals [64]:
+			xmin = 24.694
+			xmax = 24.957
+			text = "-prs"
+		intervals [65]:
+			xmin = 24.957
+			xmax = 25.220
+			text = "-V"
+		intervals [66]:
+			xmin = 25.220
+			xmax = 27.600
+			text = "<p:>"
+		intervals [67]:
+			xmin = 27.600
+			xmax = 27.941
+			text = "PN"
+		intervals [68]:
+			xmin = 27.941
+			xmax = 28.282
+			text = "-case"
+		intervals [69]:
+			xmin = 28.282
+			xmax = 28.965
+			text = "N"
+		intervals [70]:
+			xmin = 28.965
+			xmax = 29.306
+			text = "N"
+		intervals [71]:
+			xmin = 29.306
+			xmax = 29.647
+			text = "-case"
+		intervals [72]:
+			xmin = 29.647
+			xmax = 30.330
+			text = "N"
+		intervals [73]:
+			xmin = 30.330
+			xmax = 30.557
+			text = "V"
+		intervals [74]:
+			xmin = 30.557
+			xmax = 30.784
+			text = "-tam"
+		intervals [75]:
+			xmin = 30.784
+			xmax = 31.012
+			text = "-num"
+		intervals [76]:
+			xmin = 31.012
+			xmax = 31.353
+			text = "N"
+		intervals [77]:
+			xmin = 31.353
+			xmax = 31.695
+			text = "-case"
+		intervals [78]:
+			xmin = 31.695
+			xmax = 32.377
+			text = "N"
+		intervals [79]:
+			xmin = 32.377
+			xmax = 32.718
+			text = "V"
+		intervals [80]:
+			xmin = 32.718
+			xmax = 33.060
+			text = "-num"
+		intervals [81]:
+			xmin = 33.060
+			xmax = 33.920
+			text = "A"
+		intervals [82]:
+			xmin = 33.920
+			xmax = 34.196
+			text = "V"
+		intervals [83]:
+			xmin = 34.196
+			xmax = 34.473
+			text = "-tam"
+		intervals [84]:
+			xmin = 34.473
+			xmax = 34.750
+			text = "-num"
+		intervals [85]:
+			xmin = 34.750
+			xmax = 35.580
+			text = "N"
+		intervals [86]:
+			xmin = 35.580
+			xmax = 36.410
+			text = "****"
+		intervals [87]:
+			xmin = 36.410
+			xmax = 36.686
+			text = "V"
+		intervals [88]:
+			xmin = 36.686
+			xmax = 36.963
+			text = "-tam"
+		intervals [89]:
+			xmin = 36.963
+			xmax = 37.240
+			text = "-num"
+		intervals [90]:
+			xmin = 37.240
+			xmax = 37.516
+			text = "V"
+		intervals [91]:
+			xmin = 37.516
+			xmax = 37.793
+			text = "-tam"
+		intervals [92]:
+			xmin = 37.793
+			xmax = 38.070
+			text = "-num"
+		intervals [93]:
+			xmin = 38.070
+			xmax = 38.360
+			text = "<p:>"
+		intervals [94]:
+			xmin = 38.360
+			xmax = 39.277
+			text = "N"
+		intervals [95]:
+			xmin = 39.277
+			xmax = 39.736
+			text = "V"
+		intervals [96]:
+			xmin = 39.736
+			xmax = 40.195
+			text = "-tam"
+		intervals [97]:
+			xmin = 40.195
+			xmax = 40.500
+			text = "V"
+		intervals [98]:
+			xmin = 40.500
+			xmax = 40.806
+			text = "-tam"
+		intervals [99]:
+			xmin = 40.806
+			xmax = 41.112
+			text = "-num"
+		intervals [100]:
+			xmin = 41.112
+			xmax = 42.030
+			text = "N"
+		intervals [101]:
+			xmin = 42.030
+			xmax = 47.840
+			text = "<p:>"
+		intervals [102]:
+			xmin = 47.840
+			xmax = 48.353
+			text = "N"
+		intervals [103]:
+			xmin = 48.353
+			xmax = 48.866
+			text = "-num"
+		intervals [104]:
+			xmin = 48.866
+			xmax = 49.380
+			text = "-case"
+		intervals [105]:
+			xmin = 49.380
+			xmax = 49.893
+			text = "V"
+		intervals [106]:
+			xmin = 49.893
+			xmax = 50.406
+			text = "-tam"
+		intervals [107]:
+			xmin = 50.406
+			xmax = 50.920
+			text = "-num"
+		intervals [108]:
+			xmin = 50.920
+			xmax = 51.433
+			text = "N"
+		intervals [109]:
+			xmin = 51.433
+			xmax = 51.946
+			text = "-num"
+		intervals [110]:
+			xmin = 51.946
+			xmax = 52.460
+			text = "=C"
+		intervals [111]:
+			xmin = 52.460
+			xmax = 54.000
+			text = "N"
+		intervals [112]:
+			xmin = 54.000
+			xmax = 55.540
+			text = "N"
+		intervals [113]:
+			xmin = 55.540
+			xmax = 56.310
+			text = "V"
+		intervals [114]:
+			xmin = 56.310
+			xmax = 57.080
+			text = "-num"

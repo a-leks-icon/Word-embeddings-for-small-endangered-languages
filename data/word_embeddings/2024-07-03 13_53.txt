@@ -1,0 +1,3989 @@
+{'lr': 0.005, 'epochs': 50, 'feat_num': 10, 'errors': [-9.231607, -10.551723, -11.12223, -15.263509, -18.267958, -23.977541, -31.558163, -34.76138, -59.20484, -73.35148, -49.439022, -28.36732, -308.0575, -217.78893, -249.1536, -132.2805, -260.58466, -424.20535, -388.16177, -293.2008, -362.51535, -220.42046, -361.12906, -257.85037, -146.25388, -303.598, -264.08868, -241.90802, -408.26297, -463.71463, -103.971985, -648.09467, -500.4514, -248.83946, -603.0391, -564.9152, -451.238, -308.44998, -609.97064, -514.3144, -228.04507, -482.4296, -486.58847, -282.80362, -234.28342, -302.90485, -155.26479, -499.0651, nan, nan]}
+
+Israels
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Angela
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gewählt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Tatsache
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Konfliktländern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Herausforderung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schwenkt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Aufrechterhaltung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Diplom
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erneut
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+in
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Herlind
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+weitere
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Spionageaffäre
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+politischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Brandenburg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zudem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+im
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schwierigen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ihren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Parteiamt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zuwachs
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Abitur
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sachbearbeiterin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zuletzt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wandel
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+lang
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+eigene
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ministeriums
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dibelius
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+laude
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+heute
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vorsitz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Christine
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Pegida
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Amt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+neue
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vor
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nacht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Einheit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Projekte
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Physikalische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+scheitert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ein
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Folge
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mitgliedervotum
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+müssen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Oppositionsführerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesminister
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundeswehrreform
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beruflichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mutter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Krüger
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Podcast
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundestagwahlen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aufgenommen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Standards
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ministerpräsidenten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wochen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Budapest
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+deutsch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+treibt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vereinbaren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Modernisierung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Prozent
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sozialen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nur
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kommunikationsstil
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bilden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+größere
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Hand
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Leipzig
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Annegret
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erzielen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Deutsche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wichtigsten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Times
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bürgerkriegsländern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Alternative
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schröder
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aufeinander
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+überdies
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+akzeptiert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erregt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Konkurrenten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ihrem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Großereignissen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+anschließt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Winter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+statistischer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+diesem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aufgrund
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schicksal
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ratspräsidentschaft
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Öffentlichkeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+fordert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Niedersachsen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kurzer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Syrien
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nationen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ernst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sondern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mitglied
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ungewiss
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erringt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ausgleichszahlungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+So
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Physik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dr
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+re
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesfinanzministerium
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+keiner
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Paul
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+theoretische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Faches
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Marcus
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verbesserung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sicherheit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Landesebene
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wechseln
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Widerstand
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Umwelt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wegen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zugetreten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+polnischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+rite
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ehen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schlägt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wenige
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Thüringen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Möglichkeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ministerpräsidentinnen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ausgang
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Was
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bietet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Medien
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bei
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Landtagswahlen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+klassische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Koalitionspartner
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesministerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vom
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+versucht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+noch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Aber
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Von
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gekrönt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+amerikanische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Quantenchemie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Integrationspolitik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zukunft
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sieben
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ungeachtet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rau
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Interessen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Informationsamt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+betroffen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Europäischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Konsequenz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+rer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Gemüse
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Monat
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Theoretische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Gauck
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+neuerlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+September
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+unentgeltlich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verbessern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Time
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wohl
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+diese
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jugendaustausches
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Familie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Atomkraftversorgung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Allgemeinen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Amerika
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Werte
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ehemaligen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Arbeitskreis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kohls
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Guttenberg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Aufgrund
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sozialistische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schulz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vergangenheit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erteilen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gute
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Einfluß
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Thälmann
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bedeutet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wähler
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Arbeitsstätte
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vertrauensverhältnis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gestartete
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ambitionen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dort
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+niedersächsischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ergebnis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+radikalen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jahren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Direktor
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zentrum
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundeswehr
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gekürt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+York
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nationalen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ende
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Parteistruktur
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+außerdem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+regelmäßig
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+liebt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bayerischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+besucht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nachdem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+In
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ersten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Leyen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verschärfenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Washington
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rückhalt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Krisenmanagement
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+DA
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+grünen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beginnende
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zugleich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Integration
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Russisch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aufzunehmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zweitstimmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+besonnene
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+über
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wendepunkt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gegen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Maria
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Generalsekretärin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Geburtsstadt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Registrierung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Studium
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Frau
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lehre
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+arbeitsmarktpolitisch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+magna
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Pionierorganisation
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+am
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+humanitäre
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+studiert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gehören
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesministers
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dritten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Westens
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+auf
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sauer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+behält
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ebenso
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wege
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ehemalige
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Stimmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Theologen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kanzlerkandidat
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nach
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+de
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einige
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Physikerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Willy
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gestatten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kanzlerkandidatin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+FDJ
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fußballanhängerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Christlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Joachim
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+anerkannten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Patriotische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundestagswahl
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+historische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Haltung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+weltweite
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vereinigungsparteitag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Aachen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Herbst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Der
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Währungsfonds
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Krise
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+New
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+obligatorischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+mehr
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+eigenem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+konfirmieren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schavan
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ausgleich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+hinnehmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gezwungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+scheitern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bindungsbruch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wählt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Hessen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Methoden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Entscheidung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erzielt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rücktritt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Leningrad
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schulische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wiedervereinigung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+FDP
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+junge
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Regierungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kindergartenplatz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Irland
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ängste
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Parallelgesellschaften
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Besonders
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlbündnis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Trotz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erheblichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Führungskrise
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Leistungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+letzten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+US
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Moskau
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wiederherstellung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+konsequentere
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wieder
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Evangelischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+genommen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vorbei
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+damit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+USA
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Montag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Helmut
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dass
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Magazine
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+höchste
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Parteispenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Geboren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einfachem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+internationale
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dichten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+politisch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Demokraten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+festigen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dritte
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Aufstiegs
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Artikel
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Marxismus
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bekennt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dialog
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+unterschiedliche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+EU
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+veranlasst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundestag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Essen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erforderlich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Art
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beständig
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gescheiterte
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verbuchen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vorgeschlagene
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Hamburg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lehrerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Klasse
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vermitteln
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kennen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sonderlich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Irak
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+europaweiten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Aufsehen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ministerialrätin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Deutschland
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+europäische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erscheint
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Templin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+eingeladen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Erststimmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Treibhausgase
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sonderparteitag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bankenkrise
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zahlreichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erforderlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wächst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+selbst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Interessenausgleich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Naturwissenschaften
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wichtige
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schlechten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlgang
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Phase
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mitglieder
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Spareinlagen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Anspruch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Laufzeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bauwesen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dieser
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kündigt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dafür
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Gegen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nachfolger
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schäden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+August
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Machtposition
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Festspiele
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fraktion
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+eines
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Einigungsvertrag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+freien
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Niederlage
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+trotz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dresden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bürgern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stimmt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kramp
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Skilanglauf
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+seit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Geheimdienstes
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+hält
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Böhmer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Teil
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Merz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Angesichts
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Israel
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zum
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+EAK
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+können
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sowie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mai
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fukushima
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Tochter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bürgerinnen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verhandlungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wirklich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Innenpolitisch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lehrbefähigung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Maizi
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Weg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Karl
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wachsende
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+folgt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Beschleunigung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+anschließend
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Demokratie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Professor
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erklärt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+antritt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+per
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nat
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+übergibt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sehr
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erneuten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Berlin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bekannt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Affäre
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Niederlagen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Tage
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Parteivorsitzender
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rolle
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mütter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Revolution
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wenige
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+durchgesetzt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ungarns
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vorpommern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erbringt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+promoviert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Länger
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Oberschule
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Europa
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sind
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Würdigung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Margarethe
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Partnern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+damals
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+private
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jentzsch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kein
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wenn
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schule
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+geleiteten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aufbaut
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Regierungsbildung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Parteivorsitzenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Anerkennung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wegner
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Konsultationen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+geprägt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lothar
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Spendenaffäre
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rückhalts
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dimensionen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gestanden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+lassen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+festschreibt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+fest
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Putin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+deutliche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+quantenchemischer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ab
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nationale
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+er
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ausländern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ursula
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+benotet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+des
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Stück
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Halbjahr
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wandern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Hausmacht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mathematik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jahres
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Spahn
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ausstieg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zeigt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+amtierende
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Eintretens
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Auslandseinsätzen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verlangen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beschließt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Welt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+deutlichere
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+liberalen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verhandelbar
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+angestrebte
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aus
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Regierungschefin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Hilfe
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Knesset
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+provisorische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erhält
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Systemadministratorin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bestehenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Krause
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Griechenland
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Namen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jens
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Staatssicherheit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Chance
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesregierung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Presse
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+seinen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kandidiert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ukraine
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+als
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+geb
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dorf
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Durch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gehört
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Horst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+betreibt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kinderlos
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+eingeschult
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Chemie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+auch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Regierungssprecherin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erreichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Parteispitze
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+haben
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Begeisterung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kaiserreich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sicher
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+überstanden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ludwig
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Beschlüssen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verzichtet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+christlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ihrer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+eigenen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlsonntag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Video
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesparteitag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vereint
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+hat
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+löst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Klaus
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Familienleben
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Oppositionsgruppen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ausländische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schäuble
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+drei
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Überschattet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Geburt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+den
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Am
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Reform
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+geboren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erstmals
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+heraus
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nicht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rückendeckung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Auf
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Situationen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nimmt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Stabilisierungsmechanismusgesetz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sowjetischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+großen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Über
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fachmann
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Format
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erster
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lissabon
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Amtsperiode
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ersetzt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Abschluss
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+enttarnt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+NSA
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+weder
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Forbes
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+G
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Direktmandat
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+es
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+besonders
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+hatten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wenig
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Akzente
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+das
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gewinnt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+folgenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ist
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Legislaturperiode
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kohl
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+J
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verfassungsvertrag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nachfolgerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beharrliche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Deutschlands
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Führungsspitze
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundeskanzler
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Erweiterten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+jedoch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einsetzende
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+entscheiden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lieberknecht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+seiner
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+leidenschaftliche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Amtsinhaberin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Währungsunion
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ruhigen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Unionsparteien
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Grundlage
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bei
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zuvor
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schuldienst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bruder
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+anderem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verhalten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Magdalenen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ebenfalls
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wiedervereinigungsprozesses
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+instrumentalisiert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schließung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kocht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+modernen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sport
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Heimatstadt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verdachts
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+berufen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zunächst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+seine
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Perleberg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+subjektiv
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+geschäftsführenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Präsidenten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ausland
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nuklearkatastrophe
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+seitens
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Anlass
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mechanismus
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kraftvolle
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+werden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stärken
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Flüchtlingswelle
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Reihe
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ulrich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Überwindung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zunehmende
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+international
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Auftrieb
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jahre
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+unprätentiös
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Pressesprecherin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Atomkraftwerke
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesrat
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wurde
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Naturschutz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Grenze
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sondierungsgespräche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+cum
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Asylverfahren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+durch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Weltkriegs
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+räumlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mobiltelefon
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+traditionell
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Maßnahmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vertrauensverlusts
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Außengrenzen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zugunsten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Demokratische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Quitzow
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kasner
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Einzug
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Partei
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verliert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+etwas
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Tsunami
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+mächtigste
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+inzwischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlsieger
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kazmierczak
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+pflanzt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+SPD
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dahin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Flüchtlingsströme
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schutz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Damit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wir
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stammt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Beweis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beansprucht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ihm
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dynamik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vorteilsnahme
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Führung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Person
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+trägt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nahöstlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verschlechtert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+seien
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dafür
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lutz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+überraschend
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+etablieren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Leninismus
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Eltern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lösung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ebenso
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schwimmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verpasst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Portugal
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesrepublik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verantwortung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nachweis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Humboldt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+anstrebt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Staatssekretär
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Land
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+an
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zuwanderungspolitik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Regierungskoalition
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vorsitzenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ost
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Koch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fink
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gesamtdeutschen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Blick
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+keine
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Autobahnlizenzen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Brandt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vollkommen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verdienste
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+andere
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kandidatur
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erringen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlkreis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Gesundheitsreform
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bonn
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gelingt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bewegungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+berufstätiger
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Informeller
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zögern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wendet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bereits
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gelitten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mecklenburg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verteidigungsministers
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Koalition
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+März
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dazu
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sachlich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wissenschaftliche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zeiten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+besondere
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Februar
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kulturreferentin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Köhler
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ein
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+entgehen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dezember
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Töpfer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Frauen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Leiter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+später
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Julia
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mandat
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einzigen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ergebnisse
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+abzustimmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Großen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Für
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sprung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+angestellt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+steht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ministerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+völlig
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zurückgezogen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Akademie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Untersuchung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+arbeitet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dublin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Das
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dorothea
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+allem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wolfgang
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Spitze
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+europäischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kristallisiert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ernannt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schäubles
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Abkommen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Im
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+lernt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kandidatenkür
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gelbe
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kirchlich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wir
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zu
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Annette
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+großer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Merkel
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zweiten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vorsitzender
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nehmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rettungsschirm
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erweitert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Stützung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Gezielt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+angeführt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+November
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ausreichend
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Islamisierung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+umstrittener
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beteiligt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Reihen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stellt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+unter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Hauptstadt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ihre
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Türkei
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Die
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+berufstätig
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Frankfurter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Weltoffenheit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Als
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Euro
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+von
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+übernimmt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+first
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Position
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fortbildungsstätte
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mehrheit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Regelungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wladimir
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lösungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+DDR
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vornehmlich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kreditinstituten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Situation
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stammen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wehrpflicht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sein
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+getrennt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Theodor
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Landesverbandes
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+führende
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gehen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Universität
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Johanna
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+um
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Urlaub
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+geht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+unerwartet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+üblichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+abrückt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Adlershof
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Afghanistan
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bischof
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lebensweise
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vorschlag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Unsicherheitsgefühl
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Freiwilligen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+daher
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+deutsche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kann
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Reaktorsicherheit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Moderationsfähigkeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schnur
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Christian
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beleben
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Abendlandes
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jugendhilfegesetzes
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+lange
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kandidieren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundestagsparteitag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Problems
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Erfolg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Marx
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+weltweit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bekunden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Arbeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Karrenbauer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schließlich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Roland
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jugend
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Modernisierungskurs
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verhältnis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Friedrich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+angenommen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Allianz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+lässt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zweiten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Großvater
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+republikanischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Opern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Klausel
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schließen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+fairen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vater
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Irene
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wissenschaften
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlergebnisses
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Erfolge
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zuge
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Pfarrstelle
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zentralinstitut
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Gärtnerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Notendurchschnitt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Beziehungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kanzlerwahl
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Posen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesebene
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Angelas
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wanka
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+evangelischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kurze
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Umstrukturierung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bedacht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zum
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kenntnisse
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kümmert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gebracht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gestiegenes
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+entsendet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schwarz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Freien
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Flüchtlingsbewegungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beitritt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Weltkrieg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Beide
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schlechteste
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wulff
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Unter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+für
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vorgeschlagen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+immer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+westdeutsche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gemeinsamen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mitarbeiter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Überzeugungsarbeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Energiepolitik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+obligatorische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ulf
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erneuter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+festsitzen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Elementarreaktionen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gibt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+charakterisiert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Optimismus
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Flüchtlingen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+anfänglichem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundespräsident
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+konnten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+übernommen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Stralsund
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Geschäftsstelle
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Günther
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+faktische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sparern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+liberale
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verzeichnen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ihres
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Finanzinteressen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verschafft
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+neuen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+deutlich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ersten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundeswahl
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jamaika
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+war
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zieht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Garantien
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fünfprozent
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schulzeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+rot
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vertrag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Stoiber
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Banken
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Treffen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+eindeutschen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Staatsräson
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Musik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bayern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kandidaten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Arbeitsmarkt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Cossengrün
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gesorgt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nun
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Otto
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+alte
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vorfeld
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ihren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Edmund
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zülicke
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verfügt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Regierungschef
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+CSU
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bimolekularen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+eigenes
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Städtebau
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jugendweihe
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Stabilisierung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kinder
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aufzuweisen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+unser
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Stimmungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Gesprächen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+große
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Er
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fischer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kommenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rücknahme
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Es
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Berechnung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Werten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+daran
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Überwachungs
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Reichshauptstadt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Friedlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Präsidiumssitzung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kritik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Klöckner
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schwerer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+der
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bekämpfung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Grünen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zur
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ungarn
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Uneinigkeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beginnt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ausschlaggebend
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stehe
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+die
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+unionsinterner
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Erst
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Spender
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einverleibt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sogenannten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sportlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Martin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Grimmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Elefantenrunde
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wo
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Reduzierung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Aus
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kurs
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+amerikanischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+uns
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Regierungsstil
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Studenten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Anregung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Biografie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verlassen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Anfänglich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einem
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ämter
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stimmen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kategorische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Abteilung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+internationalen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+saarländische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+backt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ordentlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+IV
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Den
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sucht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Familiennamen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundespräsidenten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlsieg
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+rechnerische
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+anzustreben
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nach
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einzige
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bleibt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Hartz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verlieren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+polnisches
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+niemals
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Monika
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+präferiert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bewertung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+unterstützt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Trump
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+formellen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erlangt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+umgesiedelt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+grüne
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Slogan
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Tradition
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nachfolgers
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Staaten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Da
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fluchtursachen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+damaligen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beizulegen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+mit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lehrstuhlinhaber
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Westfalen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Goethe
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lindner
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zerfallsreaktionen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Juli
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verlaufen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Johannes
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vergabepraktiken
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Respekt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Jahr
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beherrschenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+angeblichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+größten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stellvertretenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Umfeld
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vereinten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Sondierungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einmaligen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bleiben
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+abgehört
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Asylpolitik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+engagiert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ohne
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Einreise
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bündnis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+worden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fernsehen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+so
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bemüht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+scheiden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Koalitionsverhandlungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+St
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+kommt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Äußerungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verluste
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rede
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Oktober
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beim
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wird
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+deutlicher
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nachrichtenmagazin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+intensiven
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+insbesondere
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+SED
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+oder
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+heiraten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bevölkerungsgruppe
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Karlspreis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+deutlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+vorgezogenen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Donald
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beruft
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Doktor
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+russischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Grüne
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verfügung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Staatsgebiet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Finanzkrise
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Aussetzung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+positiv
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kirche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahl
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Absage
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundeskanzlerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Finanzstabilität
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ministerpräsidentin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Novellierung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sieht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Einsatz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlabend
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sprechen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erste
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Regierung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+verlängert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Molekülstruktur
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Finanzstabilitätsgesetz
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+eine
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+zurücktritt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Zahlungsfähigkeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+solches
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dann
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Aufbruch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Kandidat
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+April
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Spannungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dessen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+sei
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Eine
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dato
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Fluchtroute
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Blockparteien
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+abgegebenen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+jüngsten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Agenda
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Grütters
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ihre
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Herausforderer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+unterschiedlichste
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verhandlungsführer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+nennen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Thema
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Posten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Juni
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Flüchtlingspolitik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Vorstands
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Union
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+weigert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erfolgt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+setzt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+und
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Delegierten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Barack
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+erhebliche
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+dramatischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aufgestiegen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Raumordnung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Reaktionsgeschwindigkeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schon
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verteidigerin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+CDU
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+honorieren
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schulden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ägäis
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Ehemann
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Mitarbeiterin
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+macht
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Volkskammerwahl
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundesvorsitzenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundestagswahlen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+deutschen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+betrifft
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wirtschaftsflügel
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bewegung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+fort
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Darstellung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+gern
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Europäer
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+An
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+doch
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+begeisterte
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Dienstleistungen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Verfestigung
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stabile
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+WFStG
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aufzubauen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+beiden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Anfang
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rügen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+ihr
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Denn
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+schriftlichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+also
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Merkels
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Berufsarmee
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Österreich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Emine
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+betont
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+denen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+andauernden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+führt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+AfD
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bayreuther
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Internationalen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Demirbüken
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Politik
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Parteitag
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Wahlsiegs
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+somit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Lösungsansätzen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bekannten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Bundespartei
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+stillgelegt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+besitzt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Parteichef
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Korrelation
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Beitritt
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+bevorstehenden
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Während
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+wirtschaftlich
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+leitet
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Nordrhein
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Theologenfamilie
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Tätigkeit
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Obama
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+hervor
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+populistischen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Schwester
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Rückgang
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Geschwindigkeitskonstanten
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+aber
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Deutschen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+Klimagipfel
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+einflussreichen
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+garantiert
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+
+seines
+	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+

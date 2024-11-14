@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1920,990</Object>
+    </pref>
+    <pref key="MultiTierViewer.TierSortingMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>7</Int>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="TimeLineViewer.FontSize">
+        <Int>18</Int>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>ref@A01</String>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>9059</Long>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Sender">
+            <Int>0</Int>
+        </pref>
+        <pref key="Kommentar">
+            <Int>75</Int>
+        </pref>
+        <pref key="Zeile">
+            <Int>75</Int>
+        </pref>
+        <pref key="Empfänger">
+            <Int>0</Int>
+        </pref>
+        <pref key="Initialen">
+            <Int>75</Int>
+        </pref>
+        <pref key="Änderungsdatum">
+            <Int>75</Int>
+        </pref>
+        <pref key="Erstellungsdatum">
+            <Int>75</Int>
+        </pref>
+        <pref key="Anfangszeit">
+            <Int>75</Int>
+        </pref>
+        <pref key="Endzeit">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Anfangszeit</String>
+        <String>Endzeit</String>
+        <String>Zeile</String>
+        <String>Initialen</String>
+        <String>Kommentar</String>
+        <String>Thread</String>
+        <String>Sender</String>
+        <String>Empfänger</String>
+        <String>Erstellungsdatum</String>
+        <String>Änderungsdatum</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>BAS - WebMAUS Basic</String>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">0,30</Object>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>500.0</Float>
+    </pref>
+    <pref key="SelectionBeginTime">
+        <Long>4180</Long>
+    </pref>
+    <prefGroup key="BAS - WebMAUS Basic">
+        <pref key="LANGUAGE">
+            <String>deu-DE</String>
+        </pref>
+        <prefGroup key="TierUrl"/>
+        <pref key="SignalParamName">
+            <String>SIGNAL</String>
+        </pref>
+        <pref key="ServiceName">
+            <String>runMAUSBasic</String>
+        </pref>
+        <pref key="SignalUrl">
+            <String>doreco_urum1249_UUM-TXT-AN-00000-A01.wav</String>
+        </pref>
+        <pref key="TextParamName">
+            <String>TEXT</String>
+        </pref>
+    </prefGroup>
+    <pref key="TimeScaleBeginTime">
+        <Long>4148</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>4180</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="ref@unknown">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="ref@A01">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>ref@A01</String>
+        <String>ft@A01</String>
+        <String>tx@A01</String>
+        <String>wd@A01</String>
+        <String>mb@A01</String>
+        <String>gl@A01</String>
+        <String>ps@A01</String>
+        <String>ph@A01</String>
+        <String>doreco-mb-algn@A01</String>
+        <String>ref@unknown</String>
+        <String>ft@unknown</String>
+        <String>tx@unknown</String>
+        <String>wd@unknown</String>
+        <String>mb@unknown</String>
+        <String>gl@unknown</String>
+        <String>ps@unknown</String>
+        <String>nt@unknown_2_2</String>
+        <String>ge-a@unknown_2_2</String>
+    </prefList>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>1</Int>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Empfänger</String>
+    </prefList>
+</preferences>
